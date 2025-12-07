@@ -1,16 +1,32 @@
 {
   "version": 1,
-  "playlists": [
+  "catalogs": [
     {
-      "name": "Фильмы",
-      "entries": [
+      "title": "Фильмы",
+      "items": [
         {
-          "name": "Чудесная история Генри Шугара",
-          "url": "https://gallium.sambray.org/.../manifest.m3u8"
+          "title": "Чудесная история Генри Шугара",
+          "year": "2023",
+          "genre": "комедия, фэнтези, приключения",
+          "poster": "https://image.tmdb.org/t/p/w500/xGKFibrFdfYCn1Ah2KjV5cjFNEP.jpg",
+          "description": "Оскароносный фильм Уэса Андерсона...",
+          "streams": [
+            {
+              "url": "https://gallium.sambray.org/.../manifest.m3u8"
+            }
+          ]
         },
         {
-          "name": "Мы всем чужие",
-          "url": "https://polonium.sambray.org/.../manifest.m3u8"
+          "title": "Мы всем чужие",
+          "year": "2023",
+          "genre": "мелодрама, драма, фэнтези",
+          "poster": "https://image.tmdb.org/t/p/w500/5DeYPHaG6hCq1xGQ7z7aszir4Z.jpg",
+          "description": "История сценариста Адама...",
+          "streams": [
+            {
+              "url": "https://polonium.sambray.org/.../manifest.m3u8"
+            }
+          ]
         }
       ]
     }
