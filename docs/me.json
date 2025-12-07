@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "vod_folders": [
+    {
+      "title": "Фильмы",
+      "entries": [
+        {
+          "title": "Тестовый фильм",
+          "stream_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.m3u8"
+        }
+      ]
+    }
+  ]
+}
