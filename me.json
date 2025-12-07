@@ -6,13 +6,11 @@
       "entries": [
         {
           "title": "Чудесная история Генри Шугара",
-          "poster": "https://image.tmdb.org/t/p/w500/xGKFibrFdfYCn1Ah2KjV5cjFNEP.jpg",
-          "stream_url": "https://gallium.sambray.org/.../manifest.m3u8"
+          "stream_url": "https://rock.sambray.org/12b11a68be59138a57257b75db189202:2025120818:M3p5MTVSR28yYzZRdC9UWXMwU2NuTFZ0ZmYxbTNiT2hVWTNiZXp5aDRrSGlhZHFFVEZBSTduc25rODF2MHNrRmRmdmVWdFpCaGo3aUxVbGxIRUFjQ2c9PQ==/1/3/8/2/8/7/0/tx09j.mp4:hls:manifest.m3u8"
         },
         {
           "title": "Мы всем чужие",
-          "poster": "https://image.tmdb.org/t/p/w500/5DeYPHaG6hCq1xGQ7z7aszir4Z.jpg",
-          "stream_url": "https://polonium.sambray.org/.../manifest.m3u8"
+          "stream_url": "https://sparta.sambray.org/1536903b7ca69627d662a1f1571bb077:2025120818:M3p5MTVSR28yYzZRdC9UWXMwU2NuTFZ0ZmYxbTNiT2hVWTNiZXp5aDRrRThab2VOc255V0hBaG5yaStQVWlBTXdZOG1HcVpTZ3NmRlJGLys0bDhlc2c9PQ==/7/5/0/8/3/6/75obh.mp4:hls:manifest.m3u8"
         }
       ]
     }
