@@ -1,1 +1,169 @@
-
+[
+  {
+    "name": "Блудный сын",
+    "category": "Сериалы",
+    "info": {
+      "plot": "Криминальный психолог Малькольма Брайта лучше всех разбирается в поведении маньяков и составляет на них досье. Как так получилось? Дело в том, что его родной отец — серийный убийца по кличке Хирург. Малькольму предстоит консультироваться с папой по поводу новых дел и параллельно самому не сойти с ума.",
+      "poster": "https://image.tmdb.org/t/p/original/l1IKByVYTIAqPLG9ZtBfzeMtqRP.jpg",
+      "bg": "https://image.tmdb.org/t/p/original/27qMrYslAN7LGMpXWKHNm0EkVRy.jpg",
+      "rating": "TMDb 6.4",
+      "year": 2019
+    },
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "name": "Блудный сын - 1. Пилот",
+            "video": "https://indigo.sambray.org/1901df8e7a8c8cac5f91a85d67b0e9ca:2025120910:MTlqY210MGs2QzNjKy9Vem84U0FZNGNMdGVzcjlYSk1Iekp6VlcwRDBuYk5ZTDQ2bGRIV1hnbVpvL3ozaHFBako3TUtJQTUvekdMSW9QQUZYbnB4WGc9PQ==/1/4/0/1/2/0/cywlv.mp4:hls:manifest.m3u8",
+            "info": {
+              "plot": "Малкольм Брайт — талантливый криминальный психолог, прежде работавший на ФБР. Старый друг предлагает ему новую работу в полиции Нью-Йорка, но детектив неспроста вспомнил о Малкольме. В городе появился серийный убийца, методы которого сильно напоминают стиль преступника, с которым герой, к сожалению, очень хорошо знаком.",
+              "poster": "https://image.tmdb.org/t/p/original/l1IKByVYTIAqPLG9ZtBfzeMtqRP.jpg"
+            },
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
+              "Referer": "https://rezka.ag/"
+            }
+          },
+          {
+            "episode": 2,
+            "name": "Блудный сын - 2. Истребитель",
+            "video": "https://atlas.sambray.org/e1bffab93af4f5f8e54983fe29ccc6b7:2025120910:MTlqY210MGs2QzNjKy9Vem84U0FZNGNMdGVzcjlYSk1Iekp6VlcwRDBuYk5ZTDQ2bGRIV1hnbVpvL3ozaHFBajR0VjdGRmpld05BVHNYbW1GLy95Mmc9PQ==/1/4/0/1/0/3/jc9ng.mp4:hls:manifest.m3u8",
+            "info": {
+              "plot": "Гил привлекает Малькольма к расследованию нового убийства, и в процессе герой едва не погибает сам. Когда к Брайту возвращаются воспоминания о детстве, которые были заперты в его сознании, мужчина решает снова навестить Хирурга. Полиции придется постараться спасти главного свидетеля по делу, и Малькольму не обойтись без помощи новых коллег. Оказывается, что за встречами отца с сыном наблюдают.",
+              "poster": "https://image.tmdb.org/t/p/original/o3og7UMD6CtkNcSfHbQwTSUks8D.jpg"
+            },
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
+              "Referer": "https://rezka.ag/"
+            }
+          },
+          {
+            "episode": 3,
+            "name": "Блудный сын - 3. Реакция на страх",
+            "video": "https://zigzag.sambray.org/e3c2f32a448344d1c1acff22007ddbf9:2025120910:MTlqY210MGs2QzNjKy9Vem84U0FZNGNMdGVzcjlYSk1Iekp6VlcwRDBuYk5ZTDQ2bGRIV1hnbVpvL3ozaHFBamp6U3N3NE5RUzdVQ3JzdFlHckRaSWc9PQ==/1/4/0/1/2/1/vg8tq.mp4:hls:manifest.m3u8",
+            "info": {
+              "plot": "Возобновление общения с отцом приводит к тому, что через ночные кошмары Малкольма начинают пробиваться давно забытые эпизоды из прошлого. В это время его мать делает все, чтобы защитить детей от влияния доктора Уитли, но у женщины есть и собственные секреты. Расследование таинственного убийства университетского профессора психологии приводит Брайта в дом его кумира.",
+              "poster": "https://image.tmdb.org/t/p/original/1BGKjcT5fgHhbCscQQ966g2ncsJ.jpg"
+            },
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
+              "Referer": "https://rezka.ag/"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Захват",
+    "category": "Сериалы",
+    "info": {
+      "plot": "Действие сериала «Захват» начинается в тот момент, когда солдат Шон Эмери, несущий службу в горячих точках Афганистана, оказывается на суде из-за подозрений в убийстве человека. Суд рассматривает все улики, включая видео-доказательства, но не находит ничего, что могло бы на все сто процентов подтвердить вину солдата. Освободившись, Шон возвращается домой к своей молодой дочери полностью свободным человеком, оставляя позади военную службу. Но это лишь начало. Через некоторое время, когда это дело практически забывается, внезапно Шон вновь оказывается в списке подозреваемых. Ему в очередной раз приходится сражаться за свою свободу. Расследовать это непростое дело берётся Рэйчел Кэри, имеющая огромный опыт в таких делах. Шон Эмери просит её доверять ему, однако она не уверена на этот счёт. Найденные улики, свидетельствующие против него, заставляют её задуматься о более глубоком поиске истины. Впереди её ждёт одно из самых непростых и запутанных дел в её карьере.",
+      "poster": "https://image.tmdb.org/t/p/original/a4pmj0M2CDfhIvnaMLhgPnmBjfo.jpg",
+      "bg": "https://image.tmdb.org/t/p/original/nU5ZeZZ9iV5c9orHBOgkYiGM4DM.jpg",
+      "rating": "TMDb 6.6",
+      "year": 2019
+    },
+    "seasons": [
+      {
+        "season": 2,
+        "episodes": [
+          {
+            "episode": 1,
+            "name": "Захват - 1. Невидимки",
+            "video": "https://minos.sambray.org/6d253f4a0bac4c4e435c56699593c9f6:2025120910:MTlqY210MGs2QzNjKy9Vem84U0FZNGNMdGVzcjlYSk1Iekp6VlcwRDBuYk5ZTDQ2bGRIV1hnbVpvL3ozaHFBamtnZ3hlTUhwWlJlQnRxL1hvUStrd3c9PQ==/6/4/5/6/1/3/qc9c2.mp4:hls:manifest.m3u8",
+            "info": {
+              "plot": "Спустя полгода после приговора Эмери Кэри не теряет надежды пролить свет на действия своего руководства в этом деле. Происходит новое убийство, после которого сержант Флинн оказывается в опасности. Переживая за Тернер, Кэри и Латиф отправляются на квартиру, где их ждет нечто очень неожиданное.",
+              "poster": "https://image.tmdb.org/t/p/original/a4pmj0M2CDfhIvnaMLhgPnmBjfo.jpg"
+            },
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
+              "Referer": "https://rezka.ag/"
+            }
+          },
+          {
+            "episode": 2,
+            "name": "Захват - 2. Сделано в Китае",
+            "video": "https://pioneer.sambray.org/55c479d821443502571cc619d1c64a39:2025120910:MTlqY210MGs2QzNjKy9Vem84U0FZNGNMdGVzcjlYSk1Iekp6VlcwRDBuYk5ZTDQ2bGRIV1hnbVpvL3ozaHFBajNmVEp1YTN6ZjBXcnM4L3llTk4xQ0E9PQ==/6/4/5/6/1/1/9kq59.mp4:hls:manifest.m3u8",
+            "info": {
+              "plot": "Харт начинает пристально наблюдать за Тан, а Гарланд и Кэри выясняют, что произошло в квартире. Харт и Кендрикс проводят интервью с Тернер, но его прямой эфир с заявлением оказывается перехвачен. Кэри не готова начинать расследование, пока не получит больше данных.",
+              "poster": "https://image.tmdb.org/t/p/original/bce2OUCpQyXea3b9lcB4BhPxhjQ.jpg"
+            },
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
+              "Referer": "https://rezka.ag/"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Достать ножи",
+    "category": "Фильмы",
+    "video": "https://green.sambray.org/7421330a257744d75e15c507e3230be4:2025120910:MTlqY210MGs2QzNjKy9Vem84U0FZNGNMdGVzcjlYSk1Iekp6VlcwRDBuYk5ZTDQ2bGRIV1hnbVpvL3ozaHFBajdQVnN2Z1NSSGJwMkZLRjdBNStMckE9PQ==/1/6/5/0/9/2/jjzgj.mp4:hls:manifest.m3u8",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/mGfb75tcFWxuT8esS1isHrNFE90.jpg",
+      "bg": "https://image.tmdb.org/t/p/original/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+      "plot": "Сразу после празднования 85-летия, знаменитого автора детективов Харлана Тромби находят мёртвым в собственном особняке. Расследовать загадочную смерть берётся обаятельный и проницательный детектив Бенуа Блан. Ему предстоит распутать хитросплетения обмана, жадности и семейных тайн, окутавших этот дом, где каждый может оказаться подозреваемым, а правда — куда опаснее, чем кажется.",
+      "year": 2019,
+      "rating": "TMDb 7.8"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
+      "Referer": "https://rezka.ag/"
+    }
+  },
+  {
+    "name": "Спартанец",
+    "category": "Фильмы",
+    "video": "https://ozzy.sambray.org/ce5d8578618d48d538b12a35095a6892:2025120910:MTlqY210MGs2QzNjKy9Vem84U0FZNGNMdGVzcjlYSk1Iekp6VlcwRDBuYUVlRWx4WkQzNmFMWHhTaUxwU1p3WkRkQzhOUytxdXpuQjNkRWlVcUVON2c9PQ==/3/9/4/7/4/2/g9gxj.mp4:hls:manifest.m3u8",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/zdO3VblJZIABdhFhJN0PmSwWvt0.jpg",
+      "bg": "https://image.tmdb.org/t/p/original/1dm0kjWhYDcVPyBk0CZRThxwNyK.jpg",
+      "plot": "Законы древней Спарты были суровы: выживал сильнейший! Специальный агент секретной правительственной службы Скотт тому же самому учил рекрутов, которые хотели стать бойцами спецназа, — выживает сильнейший! Выживает тот, кто не раздумывает, когда надо нажать на спусковой крючок, и тот, кто выполняет приказ, не обсуждая его… Скотт — лучший кандидат для выполнения опаснейшего задания: он должен найти пропавшую девушку Лору Ньютон раньше, чем ее похитители поймут, что у них в руках — не просто студентка Гарвардского университета, а дочь видного американского политика. Скотт идет по следу преступников, однако в срок не укладывается, и пронырливые журналисты оповещают общественность, что студентка, известная всей стране, не появилась на лекции в университете… А через несколько часов теленовости рассказывают о найденной в океане утонувшей Лоре Ньютон…",
+      "year": 2004,
+      "rating": "TMDb 6.2"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
+      "Referer": "https://rezka-ua.co/"
+    }
+  },
+  {
+    "name": "Пересечение",
+    "category": "Фильмы",
+    "video": "https://natrium.sambray.org/2d88d5b6d1518a63d996fcee5dc04c0c:2025120910:MTlqY210MGs2QzNjKy9Vem84U0FZNGNMdGVzcjlYSk1Iekp6VlcwRDBuYUVlRWx4WkQzNmFMWHhTaUxwU1p3WkNXWlpSNERPVk93T3hNcGp1TndYa3c9PQ==/6/0/2/2/1/0/0pchw.mp4:hls:manifest.m3u8",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/m2u7YHcX8DEL8utQLLXSGvfmQVi.jpg",
+      "bg": "https://image.tmdb.org/t/p/original/TEHj31E9wjr1CSQgGUOmIMD37l.jpg",
+      "plot": "Пока отец в отъезде его маленькая дочь, оставшаяся с матерью, бесследно исчезает. Поиски ничего не дают, раздавленный горем мужчина начинает спиваться. Так проходит два года, но он не может оправиться от трагедии и вернуться к привычной жизни. Внезапно приходит известие, что девочка жива и здорова, счастливый родитель отправляется за ней.",
+      "year": 2012,
+      "rating": "TMDb 6.5"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
+      "Referer": "https://rezka-ua.co/",
+      "Origin": "null"
+    }
+  },
+  {
+    "name": "Джей Келли",
+    "category": "Фильмы",
+    "video": "https://6c9-71e-504gv.stream-balancer-allo-1.live/M2/0/1/1765222399/Qa3QYUgpw6tY_HgkHApCSw/4/1080/1/1142639/master.m3u8",
+    "info": {
+      "poster": "https://image.tmdb.org/t/p/w500/o2Cco2rcGfjVPwZpoXduiqhJHZT.jpg",
+      "bg": "https://image.tmdb.org/t/p/original/wR9D9hQvCVBux16NauY4b7letdU.jpg",
+      "plot": "В этом фильме номинанта на премию «Оскар» Ноа Баумбаха кинозвезда Джей Келли сталкивается с прошлым и настоящим во время путешествия по Европе с преданным менеджером.",
+      "year": 2025,
+      "rating": "TMDb 5.8"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
+      "Referer": "https://tech-as.stloadi.live/?token_movie=6dc6c491039fdc9d2abcfaace85aef&token=44d582eb68d934c529538eb8a191df",
+      "Origin": "https://tech-as.stloadi.live"
+    }
+  }
+]
