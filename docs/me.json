@@ -1,111 +1,225 @@
 [
   {
-    "name": "S1 E1 - Блудный сын - 1. Пилот",
-    "category": "Блудный сын",
-    "url": "https://indigo.sambray.org/1901df8e7a8c8cac5f91a85d67b0e9ca:2025120910:MTlqY210MGs2QzNjKy9Vem84U0FZNGNMdGVzcjlYSk1Iekp6VlcwRDBuYk5ZTDQ2bGRIV1hnbVpvL3ozaHFBako3TUtJQTUvekdMSW9QQUZYbnB4WGc9PQ==/1/4/0/1/2/0/cywlv.mp4:hls:manifest.m3u8",
-    "icon": "https://image.tmdb.org/t/p/original/l1IKByVYTIAqPLG9ZtBfzeMtqRP.jpg",
-    "type": "series",
-    "description": "Криминальный психолог Малькольма Брайта лучше всех разбирается в поведении маньяков и составляет на них досье. Как так получилось? Дело в том, что его родной отец — серийный убийца по кличке Хирург. Малькольму предстоит консультироваться с папой по поводу новых дел и параллельно самому не сойти с ума.",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
-      "Referer": "https://rezka.ag/"
-    }
+    "name": "Вокальнокриминальный ансамбль",
+    "category": "Сериалы",
+    "info": {
+      "plot": "Действие сериала разворачивается в Советском Союзе 1970-х годов, где популярный певец оказывается вовлечён в криминальные схемы, связанные с вывозом культурных ценностей за границу. За ним ведёт охоту майор Щукин, но хитрость и осторожность преступника мешают милиции поймать его. Чтобы проникнуть в окружение подозреваемого, майор решает создать вокально-инструментальный ансамбль из сотрудников правоохранительных органов. Музыка становится прикрытием для опасной операции, где каждый шаг может привести к разоблачению. Постепенно выясняется, что певец — лишь часть более масштабной преступной сети. Сериал сочетает атмосферу эпохи, напряжённые расследования и драматические судьбы героев. Он показывает, как служба и искусство переплетаются в необычном тандеме. История наполнена интригой, противостоянием и борьбой за справедливость.\n\nВ ролях: Никита Волков, Любовь Аксёнова, Иван Добронравов, Евгений Харитонов, Анатолий Белый, Артём Волобуев, Николай Козак, Игорь Черневич, Дмитрий Муляр, Петар Зекавица, Дмитрий Поднозов\nРежиссёр(ы): Степан Коршунов\n2018  •  Россия  •  46 мин.\nIMDb 6.0, Кинопоиск 7.9\nЖанр: Драма, Криминал, Детектив\n\nИнформация о сериале:",
+      "poster": "https://static.hdrezka.ac/i/2019/4/2/rf27f1b432e3fwr58q26g.jpg",
+      "backdrop": "https://static.hdrezka.ac/i/2019/4/2/rf27f1b432e3fwr58q26g.jpg",
+      "bg": "https://static.hdrezka.ac/i/2019/4/2/rf27f1b432e3fwr58q26g.jpg",
+      "year": 2018,
+      "rating": "IMDb 6.0, Кинопоиск 7.9",
+      "duration": 2760,
+      "cast": [
+        "Никита Волков",
+        "Любовь Аксёнова",
+        "Иван Добронравов",
+        "Евгений Харитонов",
+        "Анатолий Белый",
+        "Артём Волобуев",
+        "Николай Козак",
+        "Игорь Черневич",
+        "Дмитрий Муляр",
+        "Петар Зекавица",
+        "Дмитрий Поднозов"
+      ],
+      "director": [
+        "Степан Коршунов"
+      ],
+      "country": [
+        "Россия"
+      ],
+      "genre": [
+        "Драма",
+        "Криминал",
+        "Детектив"
+      ],
+      "studio": ""
+    },
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "name": "Эпизод 1",
+            "video": "https://seaborgium.sambray.org/1467f2844f4e0fa3331dde137f4fc7c4:2025120921:MTlqY210MGs2QzNjKy9Vem84U0FZNGNMdGVzcjlYSk1Iekp6VlcwRDBuYk5ZTDQ2bGRIV1hnbVpvL3ozaHFBankrbVNlM0VtaGhsT24wL1JnS2JhMFE9PQ==/6/8/1/8/3/6/5m2d4.mp4:hls:manifest.m3u8",
+            "info": {
+              "plot": "Действие сериала разворачивается в Советском Союзе 1970-х годов, где популярный певец оказывается вовлечён в криминальные схемы, связанные с вывозом культурных ценностей за границу. За ним ведёт охоту майор Щукин, но хитрость и осторожность преступника мешают милиции поймать его. Чтобы проникнуть в окружение подозреваемого, майор решает создать вокально-инструментальный ансамбль из сотрудников правоохранительных органов. Музыка становится прикрытием для опасной операции, где каждый шаг может привести к разоблачению. Постепенно выясняется, что певец — лишь часть более масштабной преступной сети. Сериал сочетает атмосферу эпохи, напряжённые расследования и драматические судьбы героев. Он показывает, как служба и искусство переплетаются в необычном тандеме. История наполнена интригой, противостоянием и борьбой за справедливость.\n\nВ ролях: Никита Волков, Любовь Аксёнова, Иван Добронравов, Евгений Харитонов, Анатолий Белый, Артём Волобуев, Николай Козак, Игорь Черневич, Дмитрий Муляр, Петар Зекавица, Дмитрий Поднозов\nРежиссёр(ы): Степан Коршунов\n2018  •  Россия  •  46 мин.\nIMDb 6.0, Кинопоиск 7.9\nЖанр: Драма, Криминал, Детектив\n\nИнформация о сериале:",
+              "poster": "https://static.hdrezka.ac/i/2019/4/2/rf27f1b432e3fwr58q26g.jpg",
+              "duration": 2760
+            },
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
+              "Referer": "https://rezka.ag/"
+            }
+          },
+          {
+            "episode": 2,
+            "name": "Эпизод 2",
+            "video": "https://sparta.sambray.org/f74f796e530625a2ac394406362a0268:2025120921:MTlqY210MGs2QzNjKy9Vem84U0FZNGNMdGVzcjlYSk1Iekp6VlcwRDBuYk5ZTDQ2bGRIV1hnbVpvL3ozaHFBanYvL3JtSGZxN3RVMHgveEFUYmRPVmc9PQ==/6/8/1/8/3/9/qmd3m.mp4:hls:manifest.m3u8",
+            "info": {
+              "plot": "Действие сериала разворачивается в Советском Союзе 1970-х годов, где популярный певец оказывается вовлечён в криминальные схемы, связанные с вывозом культурных ценностей за границу. За ним ведёт охоту майор Щукин, но хитрость и осторожность преступника мешают милиции поймать его. Чтобы проникнуть в окружение подозреваемого, майор решает создать вокально-инструментальный ансамбль из сотрудников правоохранительных органов. Музыка становится прикрытием для опасной операции, где каждый шаг может привести к разоблачению. Постепенно выясняется, что певец — лишь часть более масштабной преступной сети. Сериал сочетает атмосферу эпохи, напряжённые расследования и драматические судьбы героев. Он показывает, как служба и искусство переплетаются в необычном тандеме. История наполнена интригой, противостоянием и борьбой за справедливость.\n\nВ ролях: Никита Волков, Любовь Аксёнова, Иван Добронравов, Евгений Харитонов, Анатолий Белый, Артём Волобуев, Николай Козак, Игорь Черневич, Дмитрий Муляр, Петар Зекавица, Дмитрий Поднозов\nРежиссёр(ы): Степан Коршунов\n2018  •  Россия  •  49 мин.\nIMDb 6.0, Кинопоиск 7.9\nЖанр: Драма, Криминал, Детектив\n\nИнформация о сериале:",
+              "poster": "https://static.hdrezka.ac/i/2019/4/2/rf27f1b432e3fwr58q26g.jpg",
+              "duration": 2940
+            },
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
+              "Referer": "https://rezka.ag/"
+            }
+          }
+        ]
+      }
+    ]
   },
   {
-    "name": "S1 E2 - Блудный сын - 2. Истребитель",
-    "category": "Блудный сын",
-    "url": "https://atlas.sambray.org/e1bffab93af4f5f8e54983fe29ccc6b7:2025120910:MTlqY210MGs2QzNjKy9Vem84U0FZNGNMdGVzcjlYSk1Iekp6VlcwRDBuYk5ZTDQ2bGRIV1hnbVpvL3ozaHFBajR0VjdGRmpld05BVHNYbW1GLy95Mmc9PQ==/1/4/0/1/0/3/jc9ng.mp4:hls:manifest.m3u8",
-    "icon": "https://image.tmdb.org/t/p/original/o3og7UMD6CtkNcSfHbQwTSUks8D.jpg",
-    "type": "series",
-    "description": "Криминальный психолог Малькольма Брайта лучше всех разбирается в поведении маньяков и составляет на них досье. Как так получилось? Дело в том, что его родной отец — серийный убийца по кличке Хирург. Малькольму предстоит консультироваться с папой по поводу новых дел и параллельно самому не сойти с ума.",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
-      "Referer": "https://rezka.ag/"
-    }
+    "name": "Код убийства: Сан-Франциско",
+    "category": "Сериалы",
+    "info": {
+      "plot": "Середина 50-х. Спустя несколько лет после совместной работы над последним делом, Джин и Милли отправляются в Сан-Франциско. Там им предстоит вновь применить блестящие навыки и способности, чтобы найти серийного убийцу, встретить таких же неординарных женщин и объединиться с ними в расследовании, добиться справедливости и заново открыть свои возможности.\n\nВ ролях: Julie Graham, Rachael Stirling, Кристал Балинт, Chanelle Peloso, Бен Коттон, Колин Лоуренс, Jennifer Spence\nРежиссёр(ы): Laura Good\nОригинал: The Bletchley Circle: San Francisco\n2018  •  United Kingdom, Canada  •  45 мин.\nTMDb 5.5; TMDb ID: 78400\nЖанр: криминал, драма\nПремьера: 2018-07-25\nСтудия: Omnifilm Entertainment\n\nИнформация о сериале:\nСезонов: 1\nЭпизодов: 8\nПоследний эпизод: Эпизод 8 (12.09.2018)",
+      "poster": "https://image.tmdb.org/t/p/original/bgbDubs6WetEhUHfwyp1zqQmtLw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/enFPwOt16glglYRGCGIeGLzKhEZ.jpg",
+      "bg": "https://image.tmdb.org/t/p/original/enFPwOt16glglYRGCGIeGLzKhEZ.jpg",
+      "year": 2018,
+      "rating": "TMDb 5.5",
+      "duration": 2700,
+      "cast": [
+        "Julie Graham",
+        "Rachael Stirling",
+        "Кристал Балинт",
+        "Chanelle Peloso",
+        "Бен Коттон",
+        "Колин Лоуренс",
+        "Jennifer Spence"
+      ],
+      "director": [
+        "Laura Good"
+      ],
+      "country": [
+        "United Kingdom",
+        "Canada"
+      ],
+      "genre": [
+        "криминал",
+        "драма"
+      ],
+      "studio": "Omnifilm Entertainment"
+    },
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "name": "Код убийства: Сан-Франциско - 1. Эпизод 1",
+            "video": "https://consul.sambray.org/ecbccec5a8a12a627125852907fa6544:2025120921:MTlqY210MGs2QzNjKy9Vem84U0FZNGNMdGVzcjlYSk1Iekp6VlcwRDBuYk5ZTDQ2bGRIV1hnbVpvL3ozaHFBamk3bkhCQUpKRTJtUHJZMTBRR1BxTFE9PQ==/6/1/1/9/9/af7mt.mp4:hls:manifest.m3u8",
+            "info": {
+              "plot": "Середина 50-х. Спустя несколько лет после совместной работы над последним делом, Джин и Милли отправляются в Сан-Франциско. Там им предстоит вновь применить блестящие навыки и способности, чтобы найти серийного убийцу, встретить таких же неординарных женщин и объединиться с ними в расследовании, добиться справедливости и заново открыть свои возможности.\n\nВ ролях: Julie Graham, Rachael Stirling, Кристал Балинт, Chanelle Peloso, Бен Коттон, Колин Лоуренс, Jennifer Spence\nРежиссёр(ы): Laura Good\nОригинал: The Bletchley Circle: San Francisco\n2018  •  United Kingdom, Canada  •  45 мин.\nTMDb 5.5; TMDb ID: 78400\nЖанр: криминал, драма\nПремьера: 2018-07-25\nСтудия: Omnifilm Entertainment\n\nИнформация о сериале:\nСезонов: 1\nЭпизодов: 8\nПоследний эпизод: Эпизод 8 (12.09.2018)",
+              "poster": "https://image.tmdb.org/t/p/original/bgbDubs6WetEhUHfwyp1zqQmtLw.jpg",
+              "duration": 2700
+            },
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
+              "Referer": "https://rezka.ag/"
+            }
+          },
+          {
+            "episode": 3,
+            "name": "Код убийства: Сан-Франциско - 3. Эпизод 3",
+            "video": "https://beryllium.sambray.org/bc6bca9b9873920102e0f5e6cef564af:2025120921:MTlqY210MGs2QzNjKy9Vem84U0FZNGNMdGVzcjlYSk1Iekp6VlcwRDBuYk5ZTDQ2bGRIV1hnbVpvL3ozaHFBamUxT1YraDNiakxFQm50K1VndURSNkE9PQ==/6/1/2/0/1/pq5fx.mp4:hls:manifest.m3u8",
+            "info": {
+              "plot": "Середина 50-х. Спустя несколько лет после совместной работы над последним делом, Джин и Милли отправляются в Сан-Франциско. Там им предстоит вновь применить блестящие навыки и способности, чтобы найти серийного убийцу, встретить таких же неординарных женщин и объединиться с ними в расследовании, добиться справедливости и заново открыть свои возможности.\n\nВ ролях: Julie Graham, Rachael Stirling, Кристал Балинт, Chanelle Peloso, Бен Коттон, Колин Лоуренс, Jennifer Spence\nРежиссёр(ы): Laura Good\nОригинал: The Bletchley Circle: San Francisco\n2018  •  United Kingdom, Canada  •  45 мин.\nTMDb 5.3; TMDb ID: 78400\nЖанр: криминал, драма\nПремьера: 2018-07-25\nСтудия: Omnifilm Entertainment\n\nИнформация о сериале:\nСезонов: 1\nЭпизодов: 8\nПоследний эпизод: Эпизод 8 (12.09.2018)",
+              "poster": "https://image.tmdb.org/t/p/original/iwRsAzIJVpD6jCgpmrEVb1mY1rc.jpg",
+              "duration": 2700
+            },
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
+              "Referer": "https://rezka.ag/"
+            }
+          }
+        ]
+      }
+    ]
   },
   {
-    "name": "S1 E3 - Блудный сын - 3. Реакция на страх",
-    "category": "Блудный сын",
-    "url": "https://zigzag.sambray.org/e3c2f32a448344d1c1acff22007ddbf9:2025120910:MTlqY210MGs2QzNjKy9Vem84U0FZNGNMdGVzcjlYSk1Iekp6VlcwRDBuYk5ZTDQ2bGRIV1hnbVpvL3ozaHFBamp6U3N3NE5RUzdVQ3JzdFlHckRaSWc9PQ==/1/4/0/1/2/1/vg8tq.mp4:hls:manifest.m3u8",
-    "icon": "https://image.tmdb.org/t/p/original/1BGKjcT5fgHhbCscQQ966g2ncsJ.jpg",
-    "type": "series",
-    "description": "Криминальный психолог Малькольма Брайта лучше всех разбирается в поведении маньяков и составляет на них досье. Как так получилось? Дело в том, что его родной отец — серийный убийца по кличке Хирург. Малькольму предстоит консультироваться с папой по поводу новых дел и параллельно самому не сойти с ума.",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
-      "Referer": "https://rezka.ag/"
-    }
-  },
-  {
-    "name": "S2 E1 - Захват - 1. Невидимки",
-    "category": "Захват",
-    "url": "https://minos.sambray.org/6d253f4a0bac4c4e435c56699593c9f6:2025120910:MTlqY210MGs2QzNjKy9Vem84U0FZNGNMdGVzcjlYSk1Iekp6VlcwRDBuYk5ZTDQ2bGRIV1hnbVpvL3ozaHFBamtnZ3hlTUhwWlJlQnRxL1hvUStrd3c9PQ==/6/4/5/6/1/3/qc9c2.mp4:hls:manifest.m3u8",
-    "icon": "https://image.tmdb.org/t/p/original/a4pmj0M2CDfhIvnaMLhgPnmBjfo.jpg",
-    "type": "series",
-    "description": "Действие сериала «Захват» начинается в тот момент, когда солдат Шон Эмери, несущий службу в горячих точках Афганистана, оказывается на суде из-за подозрений в убийстве человека. Суд рассматривает все улики, включая видео-доказательства, но не находит ничего, что могло бы на все сто процентов подтвердить вину солдата. Освободившись, Шон возвращается домой к своей молодой дочери полностью свободным человеком, оставляя позади военную службу. Но это лишь начало. Через некоторое время, когда это дело практически забывается, внезапно Шон вновь оказывается в списке подозреваемых. Ему в очередной раз приходится сражаться за свою свободу. Расследовать это непростое дело берётся Рэйчел Кэри, имеющая огромный опыт в таких делах. Шон Эмери просит её доверять ему, однако она не уверена на этот счёт. Найденные улики, свидетельствующие против него, заставляют её задуматься о более глубоком поиске истины. Впереди её ждёт одно из самых непростых и запутанных дел в её карьере.",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
-      "Referer": "https://rezka.ag/"
-    }
-  },
-  {
-    "name": "S2 E2 - Захват - 2. Сделано в Китае",
-    "category": "Захват",
-    "url": "https://pioneer.sambray.org/55c479d821443502571cc619d1c64a39:2025120910:MTlqY210MGs2QzNjKy9Vem84U0FZNGNMdGVzcjlYSk1Iekp6VlcwRDBuYk5ZTDQ2bGRIV1hnbVpvL3ozaHFBajNmVEp1YTN6ZjBXcnM4L3llTk4xQ0E9PQ==/6/4/5/6/1/1/9kq59.mp4:hls:manifest.m3u8",
-    "icon": "https://image.tmdb.org/t/p/original/bce2OUCpQyXea3b9lcB4BhPxhjQ.jpg",
-    "type": "series",
-    "description": "Действие сериала «Захват» начинается в тот момент, когда солдат Шон Эмери, несущий службу в горячих точках Афганистана, оказывается на суде из-за подозрений в убийстве человека. Суд рассматривает все улики, включая видео-доказательства, но не находит ничего, что могло бы на все сто процентов подтвердить вину солдата. Освободившись, Шон возвращается домой к своей молодой дочери полностью свободным человеком, оставляя позади военную службу. Но это лишь начало. Через некоторое время, когда это дело практически забывается, внезапно Шон вновь оказывается в списке подозреваемых. Ему в очередной раз приходится сражаться за свою свободу. Расследовать это непростое дело берётся Рэйчел Кэри, имеющая огромный опыт в таких делах. Шон Эмери просит её доверять ему, однако она не уверена на этот счёт. Найденные улики, свидетельствующие против него, заставляют её задуматься о более глубоком поиске истины. Впереди её ждёт одно из самых непростых и запутанных дел в её карьере.",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
-      "Referer": "https://rezka.ag/"
-    }
-  },
-  {
-    "name": "Достать ножи",
+    "name": "Слова",
     "category": "Фильмы",
-    "url": "https://green.sambray.org/7421330a257744d75e15c507e3230be4:2025120910:MTlqY210MGs2QzNjKy9Vem84U0FZNGNMdGVzcjlYSk1Iekp6VlcwRDBuYk5ZTDQ2bGRIV1hnbVpvL3ozaHFBajdQVnN2Z1NSSGJwMkZLRjdBNStMckE9PQ==/1/6/5/0/9/2/jjzgj.mp4:hls:manifest.m3u8",
-    "icon": "https://image.tmdb.org/t/p/w500/mGfb75tcFWxuT8esS1isHrNFE90.jpg",
-    "type": "movie",
-    "description": "Сразу после празднования 85-летия, знаменитого автора детективов Харлана Тромби находят мёртвым в собственном особняке. Расследовать загадочную смерть берётся обаятельный и проницательный детектив Бенуа Блан. Ему предстоит распутать хитросплетения обмана, жадности и семейных тайн, окутавших этот дом, где каждый может оказаться подозреваемым, а правда — куда опаснее, чем кажется.",
+    "video": "https://hydrus.sambray.org/9cb9903b8eaa7921164e74586ddab0d8:2025120922:MTlqY210MGs2QzNjKy9Vem84U0FZNGNMdGVzcjlYSk1Iekp6VlcwRDBuYk5ZTDQ2bGRIV1hnbVpvL3ozaHFBanNWbkhIcmdCN0habEtObFBPRWI4Q2c9PQ==/4/7/1/9/3/9/qylqt.mp4:hls:manifest.m3u8",
+    "info": {
+      "plot": "Рори Джэнсен — писатель, который наконец обретает долгожданную известность, но его роман-бестселлер оказывается написан другим человеком, которому он теперь должен заплатить высокую цену за украденные у него жизнь и работу.\n\nВ ролях: Брэдли Купер, Зои Салдана, Джереми Айронс, Деннис Куэйд, Оливия Уайлд, Джей Кей Симмонс, Джон Ханна, Желько Иванек, Бен Барнс, Майкл Маккин\nРежиссёр(ы): Lee Sternthal\nОригинал: The Words\n12+  •  2012  •  United States of America  •  103 мин.\nTMDb 6.7; TMDb ID: 83686\nЖанр: драма, триллер\nПремьера: 2012-09-07\nСтудия: Also Known As Pictures",
+      "poster": "https://image.tmdb.org/t/p/w500/gwrzidaq6T7gsoY2cA6Mj95qi0N.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/b0GGZbLB7P9r4klx1wUcz77WzE6.jpg",
+      "bg": "https://image.tmdb.org/t/p/original/b0GGZbLB7P9r4klx1wUcz77WzE6.jpg",
+      "year": 2012,
+      "rating": "TMDb 6.7",
+      "duration": 6180,
+      "cast": [
+        "Брэдли Купер",
+        "Зои Салдана",
+        "Джереми Айронс",
+        "Деннис Куэйд",
+        "Оливия Уайлд",
+        "Джей Кей Симмонс",
+        "Джон Ханна",
+        "Желько Иванек",
+        "Бен Барнс",
+        "Майкл Маккин"
+      ],
+      "director": [
+        "Lee Sternthal"
+      ],
+      "country": [
+        "United States of America"
+      ],
+      "genre": [
+        "драма",
+        "триллер"
+      ],
+      "studio": "Also Known As Pictures"
+    },
     "headers": {
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
       "Referer": "https://rezka.ag/"
     }
   },
   {
-    "name": "Спартанец",
+    "name": "Военный ныряльщик",
     "category": "Фильмы",
-    "url": "https://ozzy.sambray.org/ce5d8578618d48d538b12a35095a6892:2025120910:MTlqY210MGs2QzNjKy9Vem84U0FZNGNMdGVzcjlYSk1Iekp6VlcwRDBuYUVlRWx4WkQzNmFMWHhTaUxwU1p3WkRkQzhOUytxdXpuQjNkRWlVcUVON2c9PQ==/3/9/4/7/4/2/g9gxj.mp4:hls:manifest.m3u8",
-    "icon": "https://image.tmdb.org/t/p/w500/zdO3VblJZIABdhFhJN0PmSwWvt0.jpg",
-    "type": "movie",
-    "description": "Законы древней Спарты были суровы: выживал сильнейший! Специальный агент секретной правительственной службы Скотт тому же самому учил рекрутов, которые хотели стать бойцами спецназа, — выживает сильнейший! Выживает тот, кто не раздумывает, когда надо нажать на спусковой крючок, и тот, кто выполняет приказ, не обсуждая его… Скотт — лучший кандидат для выполнения опаснейшего задания: он должен найти пропавшую девушку Лору Ньютон раньше, чем ее похитители поймут, что у них в руках — не просто студентка Гарвардского университета, а дочь видного американского политика. Скотт идет по следу преступников, однако в срок не укладывается, и пронырливые журналисты оповещают общественность, что студентка, известная всей стране, не появилась на лекции в университете… А через несколько часов теленовости рассказывают о найденной в океане утонувшей Лоре Ньютон…",
+    "video": "https://9a6-f80-500gv.stream-balancer-allo-1.live/M2/64/1/1765256801/SGaTieSscEBYQ6CvC2vYeg/5/1080/1/944738/master.m3u8",
+    "info": {
+      "plot": "Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.\n\nВ ролях: Роберт Де Ниро, Кьюба Гудинг мл., Шарлиз Терон, Aunjanue Ellis-Taylor, Хэл Холбрук, Michael Rapaport, Пауэрс Бут, Дэвид Кит, Дьюли Хилл, Холт Маккэллани\nРежиссёр(ы): George Tillman Jr.\nОригинал: Men of Honor\nR  •  2000  •  United States of America  •  129 мин.\nTMDb 7.5; TMDb ID: 11978\nЖанр: драма\nПремьера: 2000-09-13\nСтудия: Fox 2000 Pictures",
+      "poster": "https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/laNHiehbOHYM3y9FVFfqmLuX8X5.jpg",
+      "bg": "https://image.tmdb.org/t/p/original/laNHiehbOHYM3y9FVFfqmLuX8X5.jpg",
+      "year": 2000,
+      "rating": "TMDb 7.5",
+      "duration": 7740,
+      "cast": [
+        "Роберт Де Ниро",
+        "Кьюба Гудинг мл.",
+        "Шарлиз Терон",
+        "Aunjanue Ellis-Taylor",
+        "Хэл Холбрук",
+        "Michael Rapaport",
+        "Пауэрс Бут",
+        "Дэвид Кит",
+        "Дьюли Хилл",
+        "Холт Маккэллани"
+      ],
+      "director": [
+        "George Tillman Jr."
+      ],
+      "country": [
+        "United States of America"
+      ],
+      "genre": [
+        "драма"
+      ],
+      "studio": "Fox 2000 Pictures"
+    },
     "headers": {
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
-      "Referer": "https://rezka-ua.co/"
-    }
-  },
-  {
-    "name": "Пересечение",
-    "category": "Фильмы",
-    "url": "https://natrium.sambray.org/2d88d5b6d1518a63d996fcee5dc04c0c:2025120910:MTlqY210MGs2QzNjKy9Vem84U0FZNGNMdGVzcjlYSk1Iekp6VlcwRDBuYUVlRWx4WkQzNmFMWHhTaUxwU1p3WkNXWlpSNERPVk93T3hNcGp1TndYa3c9PQ==/6/0/2/2/1/0/0pchw.mp4:hls:manifest.m3u8",
-    "icon": "https://image.tmdb.org/t/p/w500/m2u7YHcX8DEL8utQLLXSGvfmQVi.jpg",
-    "type": "movie",
-    "description": "Пока отец в отъезде его маленькая дочь, оставшаяся с матерью, бесследно исчезает. Поиски ничего не дают, раздавленный горем мужчина начинает спиваться. Так проходит два года, но он не может оправиться от трагедии и вернуться к привычной жизни. Внезапно приходит известие, что девочка жива и здорова, счастливый родитель отправляется за ней.",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
-      "Referer": "https://rezka-ua.co/",
-      "Origin": "null"
-    }
-  },
-  {
-    "name": "Джей Келли",
-    "category": "Фильмы",
-    "url": "https://6c9-71e-504gv.stream-balancer-allo-1.live/M2/0/1/1765222399/Qa3QYUgpw6tY_HgkHApCSw/4/1080/1/1142639/master.m3u8",
-    "icon": "https://image.tmdb.org/t/p/w500/o2Cco2rcGfjVPwZpoXduiqhJHZT.jpg",
-    "type": "movie",
-    "description": "В этом фильме номинанта на премию «Оскар» Ноа Баумбаха кинозвезда Джей Келли сталкивается с прошлым и настоящим во время путешествия по Европе с преданным менеджером.",
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
-      "Referer": "https://tech-as.stloadi.live/?token_movie=6dc6c491039fdc9d2abcfaace85aef&token=44d582eb68d934c529538eb8a191df",
+      "Referer": "https://tech-as.stloadi.live/?token_movie=a4dd6044ddc84a4291dd3959d487b3&token=44d582eb68d934c529538eb8a191df",
       "Origin": "https://tech-as.stloadi.live"
     }
   }
