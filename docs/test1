@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="test">
+    <display-name>Тест</display-name>
+    <icon src="https://iptvx.one/picons/ratnik.png" />
+  </channel>
+  <programme start="20251209120000 +0300" stop="20251209134300 +0300" channel="test">
+    <title>Слова</title>
+    <desc>[Статус: Released] 
+[Оригинальное название: The Words] 
+Рори Джэнсен — писатель, который наконец обретает долгожданную известность, но его роман-бестселлер оказывается написан другим человеком, которому он теперь должен заплатить высокую цену за украденные у него жизнь и работу.</desc>
+    <icon src="https://image.tmdb.org/t/p/w350/gwrzidaq6T7gsoY2cA6Mj95qi0N.jpg"/>
+    <category>драма</category>
+    <category>триллер</category>
+    <date>2012</date>
+    <country>United States of America</country>
+    <rating system="MPAA"><value>12+</value></rating>
+    <rating system="TMDb"><value>TMDb 6.7</value></rating>
+    <credits>
+      <director>Lee Sternthal</director>
+      <actor>Брэдли Купер</actor>
+      <actor>Зои Салдана</actor>
+      <actor>Джереми Айронс</actor>
+      <actor>Деннис Куэйд</actor>
+      <actor>Оливия Уайлд</actor>
+      <actor>Джей Кей Симмонс</actor>
+      <actor>Джон Ханна</actor>
+      <actor>Желько Иванек</actor>
+      <actor>Бен Барнс</actor>
+      <actor>Майкл Маккин</actor>
+    </credits>
+  </programme>
+  <programme start="20251209134300 +0300" stop="20251209143000 +0300" channel="test">
+    <title>Айрис - 1. Чарли Большая Картофелина</title>
+    <desc>[Статус: Returning Series] 
+[Оригинальное название: The Iris Affair] 
+Айрис Никсон - страстная любительница головоломок. Днём она ведет неприметную жизнь модератора, отслеживающего вредоносный контент в соцсетях, а ночью блистает на тайных интернет-площадках, решая самые сложные загадки. Её жизнь кардинально меняется, когда она получает заманчивое предложение взломать секретный код. Став первой, кто разгадал его, Айрис оказывается во Флоренции, где знакомится с бизнесменом Кэмероном Бэком. Она понимает, что открыла опасно мощную технологию и, осознав, что расшифровка может попасть не в те руки, девушка решается на отчаянный шаг - крадет код и скрывается на Сардинии. Притворяясь другим человеком, Айрис использует всё свое мастерство и обаяние, чтобы остаться неузнанной, пока слухи о её местонахождении распространяются всё шире. 
+
+
+Сюжет эпизода:
+Мастер кодов Айрис Никсон, когда-то работавшая на обаятельного предпринимателя Кэмерона Бека, скрывается на Сардинии, пока её не раскрывают.</desc>
+    <icon src="https://image.tmdb.org/t/p/w350/mVJPzygbIFKKJKAlmJa90CtPWoU.jpg"/>
+    <category>криминал</category>
+    <category>Боевик и Приключения</category>
+    <category>НФ и Фэнтези</category>
+    <date>2025</date>
+    <country>United Kingdom, United States of America</country>
+    <rating system="TMDb"><value>TMDb 4.8</value></rating>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+    <credits>
+      <director>Нил Кросс</director>
+      <actor>Нив Алгар</actor>
+      <actor>Том Холландер</actor>
+      <actor>Meréana Tomlinson</actor>
+      <actor>Саша Дхаван</actor>
+      <actor>Maya Sansa</actor>
+      <actor>Peter Sullivan</actor>
+      <actor>Debi Mazar</actor>
+    </credits>
+  </programme>
+  <programme start="20251209143000 +0300" stop="20251209163900 +0300" channel="test">
+    <title>Военный ныряльщик</title>
+    <desc>[Статус: Released] 
+[Оригинальное название: Men of Honor] 
+Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.</desc>
+    <icon src="https://image.tmdb.org/t/p/w350/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg"/>
+    <category>драма</category>
+    <date>2000</date>
+    <country>United States of America</country>
+    <rating system="MPAA"><value>R</value></rating>
+    <rating system="TMDb"><value>TMDb 7.5</value></rating>
+    <credits>
+      <director>George Tillman Jr.</director>
+      <actor>Роберт Де Ниро</actor>
+      <actor>Кьюба Гудинг мл.</actor>
+      <actor>Шарлиз Терон</actor>
+      <actor>Aunjanue Ellis-Taylor</actor>
+      <actor>Хэл Холбрук</actor>
+      <actor>Michael Rapaport</actor>
+      <actor>Пауэрс Бут</actor>
+      <actor>Дэвид Кит</actor>
+      <actor>Дьюли Хилл</actor>
+      <actor>Холт Маккэллани</actor>
+    </credits>
+  </programme>
+  <programme start="20251209163900 +0300" stop="20251209172800 +0300" channel="test">
+    <title>Айрис - 2. Больше нуля, меньше единицы</title>
+    <desc>[Статус: Returning Series] 
+[Оригинальное название: The Iris Affair] 
+Айрис Никсон - страстная любительница головоломок. Днём она ведет неприметную жизнь модератора, отслеживающего вредоносный контент в соцсетях, а ночью блистает на тайных интернет-площадках, решая самые сложные загадки. Её жизнь кардинально меняется, когда она получает заманчивое предложение взломать секретный код. Став первой, кто разгадал его, Айрис оказывается во Флоренции, где знакомится с бизнесменом Кэмероном Бэком. Она понимает, что открыла опасно мощную технологию и, осознав, что расшифровка может попасть не в те руки, девушка решается на отчаянный шаг - крадет код и скрывается на Сардинии. Притворяясь другим человеком, Айрис использует всё свое мастерство и обаяние, чтобы остаться неузнанной, пока слухи о её местонахождении распространяются всё шире. 
+
+
+Сюжет эпизода:
+Когда сардинская полиция и коррумпированные агенты из Рима приближаются, Айрис вынуждена шантажировать местного полицейского Тео в отчаянной попытке сбежать.</desc>
+    <icon src="https://image.tmdb.org/t/p/w350/webEtLySoCGcvwVnKNdf43mwSE3.jpg"/>
+    <category>криминал</category>
+    <category>Боевик и Приключения</category>
+    <category>НФ и Фэнтези</category>
+    <date>2025</date>
+    <country>United Kingdom, United States of America</country>
+    <rating system="TMDb"><value>TMDb 1.0</value></rating>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+    <credits>
+      <director>Нил Кросс</director>
+      <actor>Нив Алгар</actor>
+      <actor>Том Холландер</actor>
+      <actor>Meréana Tomlinson</actor>
+      <actor>Саша Дхаван</actor>
+      <actor>Maya Sansa</actor>
+      <actor>Peter Sullivan</actor>
+      <actor>Debi Mazar</actor>
+    </credits>
+  </programme>
+</tv>
