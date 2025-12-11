@@ -1,5 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="voennyj_nyryal_schik" tvg-logo="https://iptvx.one/picons/sankt-peterburg.png" group-title="Фильмы" catchup="default" page-url="B7OaHR0cHM6Ly80a2luby5jYy8xMDE4LXZvZW5ueWotbnlyamFsc2NoaWstMjAwMC5odG1s",Военный ныряльщик
+#EXTINF:-1 tvg-id="voennyj_nyryal_schik" tvg-logo="https://iptvx.one/picons/novy-vek-tambov.png" group-title="Фильмы" catchup="default" catchup-days="1" page-url="WLLaHR0cHM6Ly80a2luby5jYy8xMDE4LXZvZW5ueWotbnlyamFsc2NoaWstMjAwMC5odG1s",Военный ныряльщик
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0","Referer":"https://tech-as.allarknow.online/?token_movie=48543ec0aa0df6ff9d15a3dbda6fea\u0026token=44d582eb68d934c529538eb8a191df","Origin":"https://tech-as.allarknow.online"}
 https://ab3-762-405gv.stream-balancer-allo-1.live/M2/65/1/1765470492/ZQ6TYNMc_IHJhn3MWKeYLQ/5/1080/1/967785/master.m3u8
