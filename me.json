@@ -164,6 +164,45 @@
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
       "Referer": "https://tech-as.stloadi.live/?token_movie=6dc6c491039fdc9d2abcfaace85aef&token=44d582eb68d934c529538eb8a191df",
       "Origin": "https://tech-as.stloadi.live"
+      {
+    "name": "Военный ныряльщик",
+    "category": "Фильмы",
+    "video": "https://9a6-f80-500gv.stream-balancer-allo-1.live/M2/64/1/1765432869/w7_ijfFsCjo06pT74JPRJw/5/1080/1/944738/master.m3u8",
+    "info": {
+      "plot": "Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.\n\nВ ролях: Роберт Де Ниро, Кьюба Гудинг мл., Шарлиз Терон, Aunjanue Ellis-Taylor, Хэл Холбрук, Michael Rapaport, Пауэрс Бут, Дэвид Кит, Дьюли Хилл, Холт Маккэллани\nРежиссёр(ы): George Tillman Jr.\nОригинал: Men of Honor\nR  •  2000  •  United States of America  •  129 мин.\nTMDb 7.5; TMDb ID: 11978\nЖанр: драма\nПремьера: 2000-09-13\nСтудия: Fox 2000 Pictures",
+      "poster": "https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/laNHiehbOHYM3y9FVFfqmLuX8X5.jpg",
+      "bg": "https://image.tmdb.org/t/p/original/laNHiehbOHYM3y9FVFfqmLuX8X5.jpg",
+      "year": 2000,
+      "rating": "TMDb 7.5",
+      "duration": 7740,
+      "cast": [
+        "Роберт Де Ниро",
+        "Кьюба Гудинг мл.",
+        "Шарлиз Терон",
+        "Aunjanue Ellis-Taylor",
+        "Хэл Холбрук",
+        "Michael Rapaport",
+        "Пауэрс Бут",
+        "Дэвид Кит",
+        "Дьюли Хилл",
+        "Холт Маккэллани"
+      ],
+      "director": [
+        "George Tillman Jr."
+      ],
+      "country": [
+        "United States of America"
+      ],
+      "genre": [
+        "драма"
+      ],
+      "studio": "Fox 2000 Pictures"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
+      "Referer": "https://tech-as.stloadi.live/?token_movie=a4dd6044ddc84a4291dd3959d487b3&token=44d582eb68d934c529538eb8a191df",
+      "Origin": "https://tech-as.stloadi.live"
     }
   }
 ]
