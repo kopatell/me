@@ -1,26 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="test" tvg-logo="https://iptvx.one/picons/ratnik.png" group-title="Кино" catchup="default" catchup-days="5",Тест
 https://9a6-f80-500gv.stream-balancer-allo-1.live/M2/64/1/1765409866/6dXrMSHIMjzRCa5wUdBKew/5/1080/1/944738/master.m3u8|Referer=https%3A%2F%2Ftech-as.stloadi.live%2F%3Ftoken_movie%3Da4dd6044ddc84a4291dd3959d487b3%26token%3D44d582eb68d934c529538eb8a191df&Origin=https%3A%2F%2Ftech-as.stloadi.live&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F142.0.0.0%20Safari%2F537.36%20Edg%2F142.0.0.0
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://image.tmdb.org/t/p/w500/mr7oPaFMOw2mNOJGxBc6c6t6QCr.jpg" type="movie",Двойная петля 1
+#EXTINF:-1 group-title="Фильмы" ,Двойная петля 1
 https://ab3-762-405gv.stream-balancer-allo-1.live/M2/65/1/1765434057/mTkCaQ_M_dLihhVEbajk_w/5/1080/1/967785/master.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F143.0.0.0%20Safari%2F537.36%20Edg%2F143.0.0.0&Referer=https%3A%2F%2Ftech-as.allarknow.online%2F%3Ftoken_movie%3D48543ec0aa0df6ff9d15a3dbda6fea%26token%3D44d582eb68d934c529538eb8a191df&Origin=https%3A%2F%2Ftech-as.allarknow.online
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://image.tmdb.org/t/p/w500/mr7oPaFMOw2mNOJGxBc6c6t6QCr.jpg" type="movie",Двойная петля 2
+#EXTINF:-1 group-title="Фильмы" ,Двойная петля 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
 #EXTVLCOPT:http-referrer=https://tech-as.allarknow.online/?token_movie=48543ec0aa0df6ff9d15a3dbda6fea&token=44d582eb68d934c529538eb8a191df
 #EXTVLCOPT:http-origin=https://tech-as.allarknow.online
 https://ab3-762-405gv.stream-balancer-allo-1.live/M2/65/1/1765434057/mTkCaQ_M_dLihhVEbajk_w/5/1080/1/967785/master.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://image.tmdb.org/t/p/w500/mr7oPaFMOw2mNOJGxBc6c6t6QCr.jpg" type="movie",Двойная петля 3
+#EXTINF:-1 group-title="Фильмы" ,Двойная петля 3
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0","Referer":"https://tech-as.allarknow.online/?token_movie=48543ec0aa0df6ff9d15a3dbda6fea&token=44d582eb68d934c529538eb8a191df","Origin":"https://tech-as.allarknow.online"}
 https://ab3-762-405gv.stream-balancer-allo-1.live/M2/65/1/1765434057/mTkCaQ_M_dLihhVEbajk_w/5/1080/1/967785/master.m3u8
-#EXTINF:-1 tvg-id="dvojnaya_petlya" tvg-logo="https://image.tmdb.org/t/p/w500/mr7oPaFMOw2mNOJGxBc6c6t6QCr.jpg" group-title="Фильмы" page-url="UCiaHR0cHM6Ly80a2luby5jYy8xMjA5LWR2b2puYWphLXBldGxqYS0yMDIyLmh0bWw=",Двойная петля 4
+#EXTINF:-1 tvg-id="dvojnaya_petlya" ,Двойная петля 4
 https://ab3-762-405gv.stream-balancer-allo-1.live/M2/65/1/1765434057/mTkCaQ_M_dLihhVEbajk_w/5/1080/1/967785/master.m3u8|Referer=https%3A%2F%2Ftech-as.allarknow.online%2F%3Ftoken_movie%3D48543ec0aa0df6ff9d15a3dbda6fea%26token%3D44d582eb68d934c529538eb8a191df&Origin=https%3A%2F%2Ftech-as.allarknow.online&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F143.0.0.0%20Safari%2F537.36%20Edg%2F143.0.0.0
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://image.tmdb.org/t/p/w500/mr7oPaFMOw2mNOJGxBc6c6t6QCr.jpg" type="movie",Двойная петля (Через EXTHTTP)
+#EXTINF:-1 group-title="Фильмы" ,Двойная петля (Через EXTHTTP)
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0","Origin":"https://tech-as.allarknow.online","Referer":"https://tech-as.allarknow.online/?token_movie=48543ec0aa0df6ff9d15a3dbda6fea&token=44d582eb68d934c529538eb8a191df"}
 https://ab3-762-405gv.stream-balancer-allo-1.live/M2/65/1/1765434057/mTkCaQ_M_dLihhVEbajk_w/5/1080/1/967785/master.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://image.tmdb.org/t/p/w500/mr7oPaFMOw2mNOJGxBc6c6t6QCr.jpg" type="movie",Двойная петля 5
+#EXTINF:-1 group-title="Фильмы" ,Двойная петля 5
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F143.0.0.0%20Safari%2F537.36%20Edg%2F143.0.0.0&Referer=https%3A%2F%2Ftech-as.allarknow.online%2F%3Ftoken_movie%3D48543ec0aa0df6ff9d15a3dbda6fea%26token%3D44d582eb68d934c529538eb8a191df&Origin=https%3A%2F%2Ftech-as.allarknow.online
 https://ab3-762-405gv.stream-balancer-allo-1.live/M2/65/1/1765434057/mTkCaQ_M_dLihhVEbajk_w/5/1080/1/967785/master.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://image.tmdb.org/t/p/w500/mr7oPaFMOw2mNOJGxBc6c6t6QCr.jpg" type="movie",Двойная петля 6
+#EXTINF:-1 group-title="Фильмы" ,Двойная петля 6
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0","Referer":"https://tech-as.allarknow.online/?token_movie=48543ec0aa0df6ff9d15a3dbda6fea\u0026token=44d582eb68d934c529538eb8a191df","Origin":"https://tech-as.allarknow.online"}
 https://ab3-762-405gv.stream-balancer-allo-1.live/M2/65/1/1765434057/mTkCaQ_M_dLihhVEbajk_w/5/1080/1/967785/master.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://image.tmdb.org/t/p/w500/mr7oPaFMOw2mNOJGxBc6c6t6QCr.jpg" type="movie",Двойная петля 7
+#EXTINF:-1 group-title="Фильмы" ,Двойная петля 7
 https://ab3-762-405gv.stream-balancer-allo-1.live/M2/65/1/1765434057/mTkCaQ_M_dLihhVEbajk_w/5/1080/1/967785/master.m3u8|headers=%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F143.0.0.0%20Safari%2F537.36%20Edg%2F143.0.0.0%22%2C%22Referer%22%3A%22https%3A%2F%2Ftech-as.allarknow.online%2F%3Ftoken_movie%3D48543ec0aa0df6ff9d15a3dbda6fea%26token%3D44d582eb68d934c529538eb8a191df%22%2C%22Origin%22%3A%22https%3A%2F%2Ftech-as.allarknow.online%22%7D
