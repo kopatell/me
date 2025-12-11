@@ -1,156 +1,45 @@
 [
   {
-    "name": "Слова",
+    "name": "Двойная петля",
     "category": "Фильмы",
-    "video": "https://hydrus.sambray.org/221d4a9ea3f31ed6d997ce9287b71005:2025121019:MTlqY210MGs2QzNjKy9Vem84U0FZNGNMdGVzcjlYSk1Iekp6VlcwRDBuYk5ZTDQ2bGRIV1hnbVpvL3ozaHFBalg2WG0zTldVcTlmTkxWSUNMQW9SVGc9PQ==/4/7/1/9/3/9/qylqt.mp4:hls:manifest.m3u8",
+    "video": "https://ab3-762-405gv.stream-balancer-allo-1.live/M2/65/1/1765434057/mTkCaQ_M_dLihhVEbajk_w/5/1080/1/967785/master.m3u8",
     "info": {
-      "plot": "Рори Джэнсен — писатель, который наконец обретает долгожданную известность, но его роман-бестселлер оказывается написан другим человеком, которому он теперь должен заплатить высокую цену за украденные у него жизнь и работу.\n\nВ ролях: Брэдли Купер, Зои Салдана, Джереми Айронс, Деннис Куэйд, Оливия Уайлд, Джей Кей Симмонс, Джон Ханна, Желько Иванек, Бен Барнс, Майкл Маккин\nРежиссёр(ы): Lee Sternthal\nОригинал: The Words\n12+  •  2012  •  United States of America  •  103 мин.\nTMDb 6.7; TMDb ID: 83686\nЖанр: драма, триллер\nПремьера: 2012-09-07\nСтудия: Also Known As Pictures",
-      "poster": "https://image.tmdb.org/t/p/w500/gwrzidaq6T7gsoY2cA6Mj95qi0N.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/original/b0GGZbLB7P9r4klx1wUcz77WzE6.jpg",
-      "bg": "https://image.tmdb.org/t/p/original/b0GGZbLB7P9r4klx1wUcz77WzE6.jpg",
-      "year": 2012,
-      "rating": "TMDb 6.7",
-      "duration": 6180,
+      "plot": "Два пилота американских ВМС во время Корейской войны становятся близкими друзьями и братьями по оружию. Во время очередного задания одного из лётчиков подбивают аккурат над вражеской территорией. Командование не видит необходимости в спасательной операции, но истинная преданность не позволит солдату оставить товарища в беде...\n\nВ ролях: Джонатан Мейджорс, Глен Пауэлл, Christina Jackson, Томас Садоски, Daren Kagasoff, Джо Джонас, Spencer Neville, Nick Hargrove, Бун Платт, Dean Denton\nРежиссёр(ы): Дж. Д. Диллард\nОригинал: Devotion\n16+  •  2022  •  United States of America  •  138 мин.\nTMDb 7.1; TMDb ID: 653851\nЖанр: военный, драма, боевик\nПремьера: 2022-11-23\nСтудия: Black Label Media",
+      "poster": "https://image.tmdb.org/t/p/w500/mr7oPaFMOw2mNOJGxBc6c6t6QCr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/tY36rkGlREg5m9CaguckR8jZCye.jpg",
+      "bg": "https://image.tmdb.org/t/p/original/tY36rkGlREg5m9CaguckR8jZCye.jpg",
+      "year": 2022,
+      "rating": "TMDb 7.1",
+      "duration": 8280,
       "cast": [
-        "Брэдли Купер",
-        "Зои Салдана",
-        "Джереми Айронс",
-        "Деннис Куэйд",
-        "Оливия Уайлд",
-        "Джей Кей Симмонс",
-        "Джон Ханна",
-        "Желько Иванек",
-        "Бен Барнс",
-        "Майкл Маккин"
+        "Джонатан Мейджорс",
+        "Глен Пауэлл",
+        "Christina Jackson",
+        "Томас Садоски",
+        "Daren Kagasoff",
+        "Джо Джонас",
+        "Spencer Neville",
+        "Nick Hargrove",
+        "Бун Платт",
+        "Dean Denton"
       ],
       "director": [
-        "Lee Sternthal"
+        "Дж. Д. Диллард"
       ],
       "country": [
         "United States of America"
       ],
       "genre": [
+        "военный",
         "драма",
-        "триллер"
+        "боевик"
       ],
-      "studio": "Also Known As Pictures"
+      "studio": "Black Label Media"
     },
     "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
-      "Referer": "https://rezka.ag/"
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "Referer": "https://tech-as.allarknow.online/?token_movie=48543ec0aa0df6ff9d15a3dbda6fea&token=44d582eb68d934c529538eb8a191df",
+      "Origin": "https://tech-as.allarknow.online"
     }
-  },
-  {
-    "name": "Военный ныряльщик",
-    "category": "Фильмы",
-    "video": "https://9a6-f80-500gv.stream-balancer-allo-1.live/M2/64/1/1765432869/w7_ijfFsCjo06pT74JPRJw/5/1080/1/944738/master.m3u8",
-    "info": {
-      "plot": "Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.\n\nВ ролях: Роберт Де Ниро, Кьюба Гудинг мл., Шарлиз Терон, Aunjanue Ellis-Taylor, Хэл Холбрук, Michael Rapaport, Пауэрс Бут, Дэвид Кит, Дьюли Хилл, Холт Маккэллани\nРежиссёр(ы): George Tillman Jr.\nОригинал: Men of Honor\nR  •  2000  •  United States of America  •  129 мин.\nTMDb 7.5; TMDb ID: 11978\nЖанр: драма\nПремьера: 2000-09-13\nСтудия: Fox 2000 Pictures",
-      "poster": "https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/original/laNHiehbOHYM3y9FVFfqmLuX8X5.jpg",
-      "bg": "https://image.tmdb.org/t/p/original/laNHiehbOHYM3y9FVFfqmLuX8X5.jpg",
-      "year": 2000,
-      "rating": "TMDb 7.5",
-      "duration": 7740,
-      "cast": [
-        "Роберт Де Ниро",
-        "Кьюба Гудинг мл.",
-        "Шарлиз Терон",
-        "Aunjanue Ellis-Taylor",
-        "Хэл Холбрук",
-        "Michael Rapaport",
-        "Пауэрс Бут",
-        "Дэвид Кит",
-        "Дьюли Хилл",
-        "Холт Маккэллани"
-      ],
-      "director": [
-        "George Tillman Jr."
-      ],
-      "country": [
-        "United States of America"
-      ],
-      "genre": [
-        "драма"
-      ],
-      "studio": "Fox 2000 Pictures"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
-      "Referer": "https://tech-as.stloadi.live/?token_movie=a4dd6044ddc84a4291dd3959d487b3&token=44d582eb68d934c529538eb8a191df",
-      "Origin": "https://tech-as.stloadi.live"
-    }
-  },
-  {
-    "name": "Айрис",
-    "category": "Сериалы",
-    "info": {
-      "plot": "Айрис Никсон - страстная любительница головоломок. Днём она ведет неприметную жизнь модератора, отслеживающего вредоносный контент в соцсетях, а ночью блистает на тайных интернет-площадках, решая самые сложные загадки. Её жизнь кардинально меняется, когда она получает заманчивое предложение взломать секретный код. Став первой, кто разгадал его, Айрис оказывается во Флоренции, где знакомится с бизнесменом Кэмероном Бэком. Она понимает, что открыла опасно мощную технологию и, осознав, что расшифровка может попасть не в те руки, девушка решается на отчаянный шаг - крадет код и скрывается на Сардинии. Притворяясь другим человеком, Айрис использует всё свое мастерство и обаяние, чтобы остаться неузнанной, пока слухи о её местонахождении распространяются всё шире.\n\nВ ролях: Нив Алгар, Том Холландер, Meréana Tomlinson, Саша Дхаван, Maya Sansa, Peter Sullivan, Debi Mazar\nРежиссёр(ы): Нил Кросс\nОригинал: The Iris Affair\n2025  •  United Kingdom, United States of America  •  47 мин.\nTMDb 4.8; TMDb ID: 253368\nЖанр: криминал, Боевик и Приключения, НФ и Фэнтези\nПремьера: 2025-10-16\nСтудия: Sky Studios\n\nИнформация о сериале:\nСезонов: 1\nЭпизодов: 8\nПоследний эпизод: Чарли говорит (13.11.2025)",
-      "poster": "https://image.tmdb.org/t/p/original/mVJPzygbIFKKJKAlmJa90CtPWoU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/original/gwfifpetC1DsL1OnzZFUgebGKib.jpg",
-      "bg": "https://image.tmdb.org/t/p/original/gwfifpetC1DsL1OnzZFUgebGKib.jpg",
-      "year": 2025,
-      "rating": "TMDb 4.8",
-      "duration": 2820,
-      "cast": [
-        "Нив Алгар",
-        "Том Холландер",
-        "Meréana Tomlinson",
-        "Саша Дхаван",
-        "Maya Sansa",
-        "Peter Sullivan",
-        "Debi Mazar"
-      ],
-      "director": [
-        "Нил Кросс"
-      ],
-      "country": [
-        "United Kingdom",
-        "United States of America"
-      ],
-      "genre": [
-        "криминал",
-        "Боевик и Приключения",
-        "НФ и Фэнтези"
-      ],
-      "studio": "Sky Studios"
-    },
-    "seasons": [
-      {
-        "season": 1,
-        "episodes": [
-          {
-            "episode": 1,
-            "name": "Чарли Большая Картофелина",
-            "video": "https://explorer.sambray.org/87d3199f5682e93d5893bc0fc7461a4f:2025121019:MTlqY210MGs2QzNjKy9Vem84U0FZNGNMdGVzcjlYSk1Iekp6VlcwRDBuYk5ZTDQ2bGRIV1hnbVpvL3ozaHFBak1jVVprd0VGTWtRSHlEYWtHTG5GVXc9PQ==/1/3/5/4/3/1/0/bcdjm.mp4:hls:manifest.m3u8",
-            "info": {
-              "plot": "Мастер кодов Айрис Никсон, когда-то работавшая на обаятельного предпринимателя Кэмерона Бека, скрывается на Сардинии, пока её не раскрывают.\n\nРейтинг эпизода: TMDb 4.8\nПремьера: 2025-10-16\nСтудия: Sky Studios\n\nИнформация о сериале:\nСезонов: 1\nЭпизодов: 8\nПоследний эпизод: Чарли говорит (13.11.2025)",
-              "poster": "https://image.tmdb.org/t/p/original/mVJPzygbIFKKJKAlmJa90CtPWoU.jpg",
-              "duration": 2820,
-              "rating": "TMDb 4.8"
-            },
-            "headers": {
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
-              "Referer": "https://rezka.ag/"
-            }
-          },
-          {
-            "episode": 2,
-            "name": "Больше нуля, меньше единицы",
-            "video": "https://explorer.sambray.org/16c519edc645265aa33916a9506390cd:2025121019:MTlqY210MGs2QzNjKy9Vem84U0FZNGNMdGVzcjlYSk1Iekp6VlcwRDBuYk5ZTDQ2bGRIV1hnbVpvL3ozaHFBanlyNzRObVhmM2NGUFV1TGlINnphZEE9PQ==/1/3/5/4/3/1/0/bcdjm.mp4:hls:manifest.m3u8",
-            "info": {
-              "plot": "Когда сардинская полиция и коррумпированные агенты из Рима приближаются, Айрис вынуждена шантажировать местного полицейского Тео в отчаянной попытке сбежать.\n\nРейтинг эпизода: TMDb 1.0\nПремьера: 2025-10-16\nСтудия: Sky Studios\n\nИнформация о сериале:\nСезонов: 1\nЭпизодов: 8\nПоследний эпизод: Чарли говорит (13.11.2025)",
-              "poster": "https://image.tmdb.org/t/p/original/webEtLySoCGcvwVnKNdf43mwSE3.jpg",
-              "duration": 2940,
-              "rating": "TMDb 1.0"
-            },
-            "headers": {
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
-              "Referer": "https://rezka.ag/"
-            }
-          }
-        ]
-      }
-    ]
   }
 ]
