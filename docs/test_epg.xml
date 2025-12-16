@@ -1,70 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="1_kanal_hd">
-    <display-name>1 канал HD</display-name>
-    <icon src="https://iptvx.one/picons/pervy.png" />
-  </channel>
-  <programme start="20251217120000 +0300" stop="20251217133500 +0300" channel="1_kanal_hd">
-    <title>R х/ф. Турбулентность [Turbulence]</title>
-    <desc>[R]  [TMDb 5.9, K.P 8.9] Молодая супружеская пара Зак и Эмми, чтобы вновь разжечь искру в отношениях, решают отправиться в полёт на воздушном шаре над величественными Доломитовыми Альпами в Италии. Но перед полётом к ним и опытному инструктору Гарри неожиданно присоединяется попутчица Джулия. На высоте 5 тысяч метров, где воздух разряжён, а земля кажется далёкой игрушкой, всё выходит из-под контроля. То, что задумывалось как романтическое приключение всей жизни, оборачивается настоящей борьбой за выживание.[Студия: Altitude Film Sales, Премьера: (2025.11.26)]</desc>
-    <icon src="https://image.tmdb.org/t/p/w154/uTXgSkZdHeNIDfveUgxjlDaqAd1.jpg"/>
-    <category>боевик</category>
-    <category>триллер</category>
-    <category>приключения</category>
-    <category>драма</category>
-    <category>фэнтези</category>
-    <sub-title>«Страх уносит жизни»</sub-title>
-    <date>2025</date>
-    <country>United States of America</country>
-    <country>United Kingdom</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 6.9</value></rating>
-    <rating system="TMDb"><value>K.P 8.9</value></rating>
-    <credits>
-      <director>Claudio Fäh</director>
-      <actor>Гера Хильмар</actor>
-      <actor>Джереми Ирвин</actor>
-      <actor>Келси Грэммер</actor>
-      <actor>Ольга Куриленко</actor>
-      <actor>Lionel Robert Blanc</actor>
-      <actor>Стюарт Вилан</actor>
-      <actor>Елена Бушуева</actor>
-      <actor>Кевин Джарвис</actor>
-      <actor>Alessandro De Cominato</actor>
-      <actor>Trish Williams</actor>
-    </credits>
-  </programme>
-  <programme start="20251217133500 +0300" stop="20251217143400 +0300" channel="1_kanal_hd">
-    <title>18+ т/с. Робин Гуд [Robin Hood] . Сезон 1: Эпизод 1. «Я вижу его»</title>
-    <desc>[18+] Роб, саксонский разбойник, и Мариан, нормандская дворянка, объединяются, чтобы бороться с несправедливостью после нормандского завоевания. Он возглавляет отряд мятежников, а она внедряется в коррумпированный двор. Оба стремятся к справедливости и миру.
-
- [TMDb 5.9] Сюжет эпизода «Я вижу его»:
-После того как нормандцы захватили саксонские земли, в лесах начало назревать восстание. Хью пытается вернуть свое поместье, но вместо этого шериф дает ему должность лесничего. Его сын Робин становится искусным лучником и встречает Мэриан, дочь дворянина Хантингтона.[Студия: Lionsgate Television, Премьера: (2025.11,02), Сезонов: 1 Эпизодов: 10, Последний эпизод: Эпизод 8 (14.12.2025), Следующий эпизод: Эпизод 9 (21.12.2025)]</desc>
-    <icon src="https://image.tmdb.org/t/p/w300/iGXov4pwqxoRXpcHIraR453Fbcs.jpg"/>
-    <category>драма</category>
-    <category>Боевик и Приключения</category>
-    <date>2025</date>
-    <country>United States of America</country>
-    <rating system="MPAA"><value>18+</value></rating>
-    <rating system="TMDb"><value>TMDb 5.9</value></rating>
-    <credits>
-      <director>Джонатан Инглиш</director>
-      <director>Джон Гленн</director>
-      <actor>Джек Паттен</actor>
-      <actor>Лорен МакКуин</actor>
-      <actor>Лидия Пекхэм</actor>
-      <actor>Маркус Фрэйзер</actor>
-      <actor>Генри Роули</actor>
-      <actor>Эрика Форд</actor>
-      <actor>Энгус Касл-Даути</actor>
-      <actor>Стивен Вэддингтон</actor>
-      <actor>Конни Нильсен</actor>
-      <actor>Шон Бин</actor>
-    </credits>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20251217143400 +0300" stop="20251217160700 +0300" channel="1_kanal_hd">
+<channel id="1_kanal_hd"><display-name>1 канал HD</display-name><icon src="https://iptvx.one/picons/pervy.png" /></channel>
+<programme start="20251217120000 +0300" stop="20251217133500 +0300" channel="1_kanal_hd"><title>[R] х/ф. «Турбулентность» [Turbulence]</title><desc>«Страх уносит жизни» [R] 
+Реж.: Claudio Fäh. В ролях: Гера Хильмар, Джереми Ирвин, Келси Грэммер, Ольга Куриленко, Lionel Robert Blanc, Стюарт Вилан, Елена Бушуева, Кевин Джарвис, Alessandro De Cominato, Trish Williams United States of America, United Kingdom, 2025, боевик, триллер, приключения, драма, фэнтези. [R]  [TMDb 5.9, K.P 8.9] Молодая супружеская пара Зак и Эмми, чтобы вновь разжечь искру в отношениях, решают отправиться в полёт на воздушном шаре над величественными Доломитовыми Альпами в Италии. Но перед полётом к ним и опытному инструктору Гарри неожиданно присоединяется попутчица Джулия. На высоте 5 тысяч метров, где воздух разряжён, а земля кажется далёкой игрушкой, всё выходит из-под контроля. То, что задумывалось как романтическое приключение всей жизни, оборачивается настоящей борьбой за выживание. [Студия: Altitude Film Sales, Премьера: (2025.11.26)]</desc><icon src="https://image.tmdb.org/t/p/w154/uTXgSkZdHeNIDfveUgxjlDaqAd1.jpg"/></programme>
+<programme start="20251217133500 +0300" stop="20251217143400 +0300" channel="1_kanal_hd"><title>[18+] т/с. «Робин Гуд» [Robin Hood] . S1E1: Я вижу его</title><desc>Реж.: Джонатан Инглиш, Джон Гленн. В ролях: Джек Паттен, Лорен МакКуин, Лидия Пекхэм, Маркус Фрэйзер, Генри Роули, Эрика Форд, Энгус Касл-Даути, Стивен Вэддингтон, Конни Нильсен, Шон Бин United States of America, 2025, драма, Боевик и Приключения. [18+] Роб, саксонский разбойник, и Мариан, нормандская дворянка, объединяются, чтобы бороться с несправедливостью после нормандского завоевания. Он возглавляет отряд мятежников, а она внедряется в коррумпированный двор. Оба стремятся к справедливости и миру... [TMDb 5.9] Сюжет эпизода «Я вижу его»: После того как нормандцы захватили саксонские земли, в лесах начало назревать восстание. Хью пытается вернуть свое поместье, но вместо этого шериф дает ему должность лесничего. Его сын Робин становится искусным лучником и встречает Мэриан, дочь дворянина Хантингтона. [Студия: Lionsgate Television, Премьера: 2025-11-02, Сезонов: 1 Эпизодов: 10, Следующий эпизод: Эпизод 9 (21.12.2025), Последний эпизод: Эпизод 8 (14.12.2025)]</desc><icon src="https://image.tmdb.org/t/p/w300/iGXov4pwqxoRXpcHIraR453Fbcs.jpg"/><episode-num system="xmltv_ns">0.0.</episode-num><episode-num system="onscreen">S1E1</episode-num></programme>
+ <programme start="20251217143400 +0300" stop="20251217160700 +0300" channel="1_kanal_hd">
     <title>т/с. Купер и Фрай [Cooper &amp; Fry] . Сезон 1: Эпизод 1</title>
     <desc>Местный детектив Бен Купер и замкнутый новичок Диана Фрай становятся напарниками для расследования череды загадочных убийств. [Студия: Clapperboard Studios, Премьера: 2025.11.18, Сезонов: 1 Эпизодов: 4, Последний эпизод: Эпизод 4 (09.12.2025)]</desc>
     <icon src="https://image.tmdb.org/t/p/w300/xtPhIamGPQYYC8JaKsGOvEWZvf3.jpg"/>
@@ -232,4 +172,5 @@
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
+</tv>
 </tv>
