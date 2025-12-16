@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#EXTM3U 
 #EXTINF:-1 tvg-id="1_kanal_hd" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Киношка" catchup="append" catchup-days="1" catchup-source="?offset=-${offset}&utcstart=${timestamp}",1 канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
