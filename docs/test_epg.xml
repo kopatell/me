@@ -1,582 +1,248 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="voennyj_nyryal_schik">
-    <display-name>Военный ныряльщик</display-name>
-    <icon src="https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg" />
+  <channel id="1_kanal_hd">
+    <display-name>1 канал HD</display-name>
+    <icon src="https://iptvx.one/picons/pervy.png" />
   </channel>
-  <programme start="20251209120000 +0300" stop="20251209140900 +0300" channel="voennyj_nyryal_schik">
-    <title>Военный ныряльщик</title>
-    <desc>[Статус: Released] 
-[Оригинальное название: Men of Honor] 
-Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.</desc>
-    <icon src="https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg"/>
+  <programme start="20251215120000 +0300" stop="20251215133300 +0300" channel="1_kanal_hd">
+    <title>т/с. Купер и Фрай [Cooper &amp; Fry] . Сезон 1: Эпизод 1</title>
+    <desc>[Статус: Returning Series]
+[Оригинальное название: Cooper &amp; Fry]
+Местный детектив Бен Купер и замкнутый новичок Диана Фрай становятся напарниками для расследования череды загадочных убийств.</desc>
+    <icon src="https://image.tmdb.org/t/p/original/xtPhIamGPQYYC8JaKsGOvEWZvf3.jpg"/>
+    <category>криминал</category>
     <category>драма</category>
-    <date>2000</date>
-    <country>United States of America</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 7.5</value></rating>
+    <category>детектив</category>
+    <date>2025</date>
+    <country>United Kingdom</country>
+    <rating system="TMDb"><value>TMDb 9.7</value></rating>
     <credits>
-      <director>George Tillman Jr.</director>
-      <actor>Роберт Де Ниро</actor>
-      <actor>Кьюба Гудинг мл.</actor>
-      <actor>Шарлиз Терон</actor>
-      <actor>Aunjanue Ellis-Taylor</actor>
-      <actor>Хэл Холбрук</actor>
-      <actor>Michael Rapaport</actor>
-      <actor>Пауэрс Бут</actor>
-      <actor>Дэвид Кит</actor>
-      <actor>Дьюли Хилл</actor>
-      <actor>Холт Маккэллани</actor>
+      <director>Caroline Ip</director>
+      <director>Ben Court</director>
+      <actor>Роберт Джеймс-Колльер</actor>
+      <actor>Мандип Гилл</actor>
+      <actor>Charlotte Bradley</actor>
+      <actor>Lorcan Cranitch</actor>
+      <actor>Barry O&apos;Connor</actor>
+      <actor>Niamh McCann</actor>
+      <actor>Clara Simpson</actor>
+    </credits>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20251215133300 +0300" stop="20251215150600 +0300" channel="1_kanal_hd">
+    <title>т/с. Купер и Фрай [Cooper &amp; Fry] . Сезон 1: Эпизод 2</title>
+    <desc>[Статус: Returning Series]
+[Оригинальное название: Cooper &amp; Fry]
+Местный детектив Бен Купер и замкнутый новичок Диана Фрай становятся напарниками для расследования череды загадочных убийств.</desc>
+    <icon src="https://image.tmdb.org/t/p/original/2giDOaOs4x3vLv64k4wsPdEUzx7.jpg"/>
+    <category>криминал</category>
+    <category>драма</category>
+    <category>детектив</category>
+    <date>2025</date>
+    <country>United Kingdom</country>
+    <rating system="TMDb"><value>TMDb 9.0</value></rating>
+    <credits>
+      <director>Caroline Ip</director>
+      <director>Ben Court</director>
+      <actor>Роберт Джеймс-Колльер</actor>
+      <actor>Мандип Гилл</actor>
+      <actor>Charlotte Bradley</actor>
+      <actor>Lorcan Cranitch</actor>
+      <actor>Barry O&apos;Connor</actor>
+      <actor>Niamh McCann</actor>
+      <actor>Clara Simpson</actor>
+    </credits>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20251215150600 +0300" stop="20251215164100 +0300" channel="1_kanal_hd">
+    <title>х/ф. Турбулентность [Turbulence]</title>
+    <desc>[Статус: Released]
+[Оригинальное название: Turbulence]
+««Страх уносит жизни»»
+«Страх уносит жизни»
+Молодая супружеская пара Зак и Эмми, чтобы вновь разжечь искру в отношениях, решают отправиться в полёт на воздушном шаре над величественными Доломитовыми Альпами в Италии. Но перед полётом к ним и опытному инструктору Гарри неожиданно присоединяется попутчица Джулия. На высоте 5 тысяч метров, где воздух разряжён, а земля кажется далёкой игрушкой, всё выходит из-под контроля. То, что задумывалось как романтическое приключение всей жизни, оборачивается настоящей борьбой за выживание.</desc>
+    <icon src="https://image.tmdb.org/t/p/w500/uTXgSkZdHeNIDfveUgxjlDaqAd1.jpg"/>
+    <category>боевик</category>
+    <category>триллер</category>
+    <category>приключения</category>
+    <category>драма</category>
+    <category>фэнтези</category>
+    <sub-title>«Страх уносит жизни»</sub-title>
+    <date>2025</date>
+    <country>United States of America, United Kingdom</country>
+    <rating system="MPAA"><value>R</value></rating>
+    <rating system="TMDb"><value>TMDb 6.9</value></rating>
+    <credits>
+      <director>Claudio Fäh</director>
+      <actor>Гера Хильмар</actor>
+      <actor>Джереми Ирвин</actor>
+      <actor>Келси Грэммер</actor>
+      <actor>Ольга Куриленко</actor>
+      <actor>Lionel Robert Blanc</actor>
+      <actor>Стюарт Вилан</actor>
+      <actor>Елена Бушуева</actor>
+      <actor>Кевин Джарвис</actor>
+      <actor>Alessandro De Cominato</actor>
+      <actor>Trish Williams</actor>
     </credits>
   </programme>
-  <programme start="20251209140900 +0300" stop="20251209161800 +0300" channel="voennyj_nyryal_schik">
-    <title>Военный ныряльщик</title>
-    <desc>[Статус: Released] 
-[Оригинальное название: Men of Honor] 
-Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.</desc>
-    <icon src="https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg"/>
+  <programme start="20251215164100 +0300" stop="20251215174000 +0300" channel="1_kanal_hd">
+    <title>т/с. Робин Гуд [Robin Hood] . Сезон 1: Эпизод 1. «Я вижу его»</title>
+    <desc>[Статус: Returning Series]
+[Оригинальное название: Robin Hood]
+Роб, саксонский разбойник, и Мариан, нормандская дворянка, объединяются, чтобы бороться с несправедливостью после нормандского завоевания. Он возглавляет отряд мятежников, а она внедряется в коррумпированный двор. Оба стремятся к справедливости и миру.
+
+Сюжет эпизода:
+После того как нормандцы захватили саксонские земли, в лесах начало назревать восстание. Хью пытается вернуть свое поместье, но вместо этого шериф дает ему должность лесничего. Его сын Робин становится искусным лучником и встречает Мэриан, дочь дворянина Хантингтона.</desc>
+    <icon src="https://image.tmdb.org/t/p/original/iGXov4pwqxoRXpcHIraR453Fbcs.jpg"/>
     <category>драма</category>
-    <date>2000</date>
+    <category>Боевик и Приключения</category>
+    <date>2025</date>
     <country>United States of America</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 7.5</value></rating>
+    <rating system="MPAA"><value>18+</value></rating>
+    <rating system="TMDb"><value>TMDb 5.9</value></rating>
     <credits>
-      <director>George Tillman Jr.</director>
-      <actor>Роберт Де Ниро</actor>
-      <actor>Кьюба Гудинг мл.</actor>
-      <actor>Шарлиз Терон</actor>
-      <actor>Aunjanue Ellis-Taylor</actor>
-      <actor>Хэл Холбрук</actor>
-      <actor>Michael Rapaport</actor>
-      <actor>Пауэрс Бут</actor>
-      <actor>Дэвид Кит</actor>
-      <actor>Дьюли Хилл</actor>
-      <actor>Холт Маккэллани</actor>
+      <director>Джонатан Инглиш</director>
+      <director>Джон Гленн</director>
+      <actor>Джек Паттен</actor>
+      <actor>Лорен МакКуин</actor>
+      <actor>Лидия Пекхэм</actor>
+      <actor>Маркус Фрэйзер</actor>
+      <actor>Генри Роули</actor>
+      <actor>Эрика Форд</actor>
+      <actor>Энгус Касл-Даути</actor>
+      <actor>Стивен Вэддингтон</actor>
+      <actor>Конни Нильсен</actor>
+      <actor>Шон Бин</actor>
     </credits>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20251209161800 +0300" stop="20251209182700 +0300" channel="voennyj_nyryal_schik">
-    <title>Военный ныряльщик</title>
-    <desc>[Статус: Released] 
-[Оригинальное название: Men of Honor] 
-Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.</desc>
-    <icon src="https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg"/>
+  <programme start="20251215174000 +0300" stop="20251215184000 +0300" channel="1_kanal_hd">
+    <title>т/с. Робин Гуд [Robin Hood] . Сезон 1: Эпизод 2. «Гнусный дьявол»</title>
+    <desc>[Статус: Returning Series]
+[Оригинальное название: Robin Hood]
+Роб, саксонский разбойник, и Мариан, нормандская дворянка, объединяются, чтобы бороться с несправедливостью после нормандского завоевания. Он возглавляет отряд мятежников, а она внедряется в коррумпированный двор. Оба стремятся к справедливости и миру.
+
+Сюжет эпизода:
+Роберт теряет обоих родителей. Хантингтон подкупает чиновников, чтобы захватить земли и стать графом, а его дочь узнает о его причастности к казни Хью. Мэриан и Роберт признаются друг другу в любви, но их плану побега не суждено сбыться. Когда Лефорс пытается арестовать Робина, он стреляет в него из лука и убегает в лес.</desc>
+    <icon src="https://image.tmdb.org/t/p/original/AtrmCKPdDKD6ufCSIjeXRViUhWG.jpg"/>
     <category>драма</category>
-    <date>2000</date>
+    <category>Боевик и Приключения</category>
+    <date>2025</date>
     <country>United States of America</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 7.5</value></rating>
+    <rating system="MPAA"><value>18+</value></rating>
+    <rating system="TMDb"><value>TMDb 6.8</value></rating>
     <credits>
-      <director>George Tillman Jr.</director>
-      <actor>Роберт Де Ниро</actor>
-      <actor>Кьюба Гудинг мл.</actor>
-      <actor>Шарлиз Терон</actor>
-      <actor>Aunjanue Ellis-Taylor</actor>
-      <actor>Хэл Холбрук</actor>
-      <actor>Michael Rapaport</actor>
-      <actor>Пауэрс Бут</actor>
-      <actor>Дэвид Кит</actor>
-      <actor>Дьюли Хилл</actor>
-      <actor>Холт Маккэллани</actor>
+      <director>Джонатан Инглиш</director>
+      <director>Джон Гленн</director>
+      <actor>Джек Паттен</actor>
+      <actor>Лорен МакКуин</actor>
+      <actor>Лидия Пекхэм</actor>
+      <actor>Маркус Фрэйзер</actor>
+      <actor>Генри Роули</actor>
+      <actor>Эрика Форд</actor>
+      <actor>Энгус Касл-Даути</actor>
+      <actor>Стивен Вэддингтон</actor>
+      <actor>Конни Нильсен</actor>
+      <actor>Шон Бин</actor>
     </credits>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme start="20251209182700 +0300" stop="20251209203600 +0300" channel="voennyj_nyryal_schik">
-    <title>Военный ныряльщик</title>
-    <desc>[Статус: Released] 
-[Оригинальное название: Men of Honor] 
-Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.</desc>
-    <icon src="https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg"/>
+  <programme start="20251215184000 +0300" stop="20251215193200 +0300" channel="1_kanal_hd">
+    <title>т/с. Робин Гуд [Robin Hood] . Сезон 1: Эпизод 3. «Никто не может прятаться вечно»</title>
+    <desc>[Статус: Returning Series]
+[Оригинальное название: Robin Hood]
+Роб, саксонский разбойник, и Мариан, нормандская дворянка, объединяются, чтобы бороться с несправедливостью после нормандского завоевания. Он возглавляет отряд мятежников, а она внедряется в коррумпированный двор. Оба стремятся к справедливости и миру.
+
+Сюжет эпизода:
+Узнав о смерти Лефорса, шериф назначает награду за поимку Робина Гуда. Пока Мэриан получает место служанки королевы, Робин встречает девочку, выдающую себя за мальчика и ее двух младших братьев. Когда Робин учит Ральфа стрелять, его находит Джон Нэйлер, который хочет получить награду за поимку лучника.</desc>
+    <icon src="https://image.tmdb.org/t/p/original/zIeZFzCXfa205gAxnJoBQYee4Fa.jpg"/>
     <category>драма</category>
-    <date>2000</date>
+    <category>Боевик и Приключения</category>
+    <date>2025</date>
     <country>United States of America</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 7.5</value></rating>
+    <rating system="MPAA"><value>18+</value></rating>
+    <rating system="TMDb"><value>TMDb 6.2</value></rating>
     <credits>
-      <director>George Tillman Jr.</director>
-      <actor>Роберт Де Ниро</actor>
-      <actor>Кьюба Гудинг мл.</actor>
-      <actor>Шарлиз Терон</actor>
-      <actor>Aunjanue Ellis-Taylor</actor>
-      <actor>Хэл Холбрук</actor>
-      <actor>Michael Rapaport</actor>
-      <actor>Пауэрс Бут</actor>
-      <actor>Дэвид Кит</actor>
-      <actor>Дьюли Хилл</actor>
-      <actor>Холт Маккэллани</actor>
+      <director>Джонатан Инглиш</director>
+      <director>Джон Гленн</director>
+      <actor>Джек Паттен</actor>
+      <actor>Лорен МакКуин</actor>
+      <actor>Лидия Пекхэм</actor>
+      <actor>Маркус Фрэйзер</actor>
+      <actor>Генри Роули</actor>
+      <actor>Эрика Форд</actor>
+      <actor>Энгус Касл-Даути</actor>
+      <actor>Стивен Вэддингтон</actor>
+      <actor>Конни Нильсен</actor>
+      <actor>Шон Бин</actor>
     </credits>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
   </programme>
-  <programme start="20251209203600 +0300" stop="20251209224500 +0300" channel="voennyj_nyryal_schik">
-    <title>Военный ныряльщик</title>
-    <desc>[Статус: Released] 
-[Оригинальное название: Men of Honor] 
-Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.</desc>
-    <icon src="https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg"/>
+  <programme start="20251215193200 +0300" stop="20251215203200 +0300" channel="1_kanal_hd">
+    <title>т/с. Робин Гуд [Robin Hood] . Сезон 1: Эпизод 4. «Причина этого хаоса»</title>
+    <desc>[Статус: Returning Series]
+[Оригинальное название: Robin Hood]
+Роб, саксонский разбойник, и Мариан, нормандская дворянка, объединяются, чтобы бороться с несправедливостью после нормандского завоевания. Он возглавляет отряд мятежников, а она внедряется в коррумпированный двор. Оба стремятся к справедливости и миру.
+
+Сюжет эпизода:
+Шериф собирается нанять больше солдат и приказывает епископу отвезти Присциллу в монастырь. Мэриан молится о том, чтобы с Робином все было хорошо, в то время как королева Элеонора хочет сделать из нее шпионку. Группа нападает на повозку из Херфорда в лесу.</desc>
+    <icon src="https://image.tmdb.org/t/p/original/jg9zZr4StFrLDvbIPO2QEq2OEew.jpg"/>
     <category>драма</category>
-    <date>2000</date>
+    <category>Боевик и Приключения</category>
+    <date>2025</date>
     <country>United States of America</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 7.5</value></rating>
+    <rating system="MPAA"><value>18+</value></rating>
+    <rating system="TMDb"><value>TMDb 6.2</value></rating>
     <credits>
-      <director>George Tillman Jr.</director>
-      <actor>Роберт Де Ниро</actor>
-      <actor>Кьюба Гудинг мл.</actor>
-      <actor>Шарлиз Терон</actor>
-      <actor>Aunjanue Ellis-Taylor</actor>
-      <actor>Хэл Холбрук</actor>
-      <actor>Michael Rapaport</actor>
-      <actor>Пауэрс Бут</actor>
-      <actor>Дэвид Кит</actor>
-      <actor>Дьюли Хилл</actor>
-      <actor>Холт Маккэллани</actor>
+      <director>Джонатан Инглиш</director>
+      <director>Джон Гленн</director>
+      <actor>Джек Паттен</actor>
+      <actor>Лорен МакКуин</actor>
+      <actor>Лидия Пекхэм</actor>
+      <actor>Маркус Фрэйзер</actor>
+      <actor>Генри Роули</actor>
+      <actor>Эрика Форд</actor>
+      <actor>Энгус Касл-Даути</actor>
+      <actor>Стивен Вэддингтон</actor>
+      <actor>Конни Нильсен</actor>
+      <actor>Шон Бин</actor>
     </credits>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
-  <programme start="20251209224500 +0300" stop="20251210005400 +0300" channel="voennyj_nyryal_schik">
-    <title>Военный ныряльщик</title>
-    <desc>[Статус: Released] 
-[Оригинальное название: Men of Honor] 
-Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.</desc>
-    <icon src="https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg"/>
+  <programme start="20251215203200 +0300" stop="20251215212600 +0300" channel="1_kanal_hd">
+    <title>т/с. Робин Гуд [Robin Hood] . Сезон 1: Эпизод 5. «Возвращайся к ним»</title>
+    <desc>[Статус: Returning Series]
+[Оригинальное название: Robin Hood]
+Роб, саксонский разбойник, и Мариан, нормандская дворянка, объединяются, чтобы бороться с несправедливостью после нормандского завоевания. Он возглавляет отряд мятежников, а она внедряется в коррумпированный двор. Оба стремятся к справедливости и миру.</desc>
+    <icon src="https://image.tmdb.org/t/p/original/eyPznc2hkuFstd6l1YP6z0D7QYc.jpg"/>
     <category>драма</category>
-    <date>2000</date>
+    <category>Боевик и Приключения</category>
+    <date>2025</date>
     <country>United States of America</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 7.5</value></rating>
+    <rating system="MPAA"><value>18+</value></rating>
+    <rating system="TMDb"><value>TMDb 7.3</value></rating>
     <credits>
-      <director>George Tillman Jr.</director>
-      <actor>Роберт Де Ниро</actor>
-      <actor>Кьюба Гудинг мл.</actor>
-      <actor>Шарлиз Терон</actor>
-      <actor>Aunjanue Ellis-Taylor</actor>
-      <actor>Хэл Холбрук</actor>
-      <actor>Michael Rapaport</actor>
-      <actor>Пауэрс Бут</actor>
-      <actor>Дэвид Кит</actor>
-      <actor>Дьюли Хилл</actor>
-      <actor>Холт Маккэллани</actor>
+      <director>Джонатан Инглиш</director>
+      <director>Джон Гленн</director>
+      <actor>Джек Паттен</actor>
+      <actor>Лорен МакКуин</actor>
+      <actor>Лидия Пекхэм</actor>
+      <actor>Маркус Фрэйзер</actor>
+      <actor>Генри Роули</actor>
+      <actor>Эрика Форд</actor>
+      <actor>Энгус Касл-Даути</actor>
+      <actor>Стивен Вэддингтон</actor>
+      <actor>Конни Нильсен</actor>
+      <actor>Шон Бин</actor>
     </credits>
-  </programme>
-  <programme start="20251210005400 +0300" stop="20251210030300 +0300" channel="voennyj_nyryal_schik">
-    <title>Военный ныряльщик</title>
-    <desc>[Статус: Released] 
-[Оригинальное название: Men of Honor] 
-Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.</desc>
-    <icon src="https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg"/>
-    <category>драма</category>
-    <date>2000</date>
-    <country>United States of America</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 7.5</value></rating>
-    <credits>
-      <director>George Tillman Jr.</director>
-      <actor>Роберт Де Ниро</actor>
-      <actor>Кьюба Гудинг мл.</actor>
-      <actor>Шарлиз Терон</actor>
-      <actor>Aunjanue Ellis-Taylor</actor>
-      <actor>Хэл Холбрук</actor>
-      <actor>Michael Rapaport</actor>
-      <actor>Пауэрс Бут</actor>
-      <actor>Дэвид Кит</actor>
-      <actor>Дьюли Хилл</actor>
-      <actor>Холт Маккэллани</actor>
-    </credits>
-  </programme>
-  <programme start="20251210030300 +0300" stop="20251210051200 +0300" channel="voennyj_nyryal_schik">
-    <title>Военный ныряльщик</title>
-    <desc>[Статус: Released] 
-[Оригинальное название: Men of Honor] 
-Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.</desc>
-    <icon src="https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg"/>
-    <category>драма</category>
-    <date>2000</date>
-    <country>United States of America</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 7.5</value></rating>
-    <credits>
-      <director>George Tillman Jr.</director>
-      <actor>Роберт Де Ниро</actor>
-      <actor>Кьюба Гудинг мл.</actor>
-      <actor>Шарлиз Терон</actor>
-      <actor>Aunjanue Ellis-Taylor</actor>
-      <actor>Хэл Холбрук</actor>
-      <actor>Michael Rapaport</actor>
-      <actor>Пауэрс Бут</actor>
-      <actor>Дэвид Кит</actor>
-      <actor>Дьюли Хилл</actor>
-      <actor>Холт Маккэллани</actor>
-    </credits>
-  </programme>
-  <programme start="20251210051200 +0300" stop="20251210072100 +0300" channel="voennyj_nyryal_schik">
-    <title>Военный ныряльщик</title>
-    <desc>[Статус: Released] 
-[Оригинальное название: Men of Honor] 
-Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.</desc>
-    <icon src="https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg"/>
-    <category>драма</category>
-    <date>2000</date>
-    <country>United States of America</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 7.5</value></rating>
-    <credits>
-      <director>George Tillman Jr.</director>
-      <actor>Роберт Де Ниро</actor>
-      <actor>Кьюба Гудинг мл.</actor>
-      <actor>Шарлиз Терон</actor>
-      <actor>Aunjanue Ellis-Taylor</actor>
-      <actor>Хэл Холбрук</actor>
-      <actor>Michael Rapaport</actor>
-      <actor>Пауэрс Бут</actor>
-      <actor>Дэвид Кит</actor>
-      <actor>Дьюли Хилл</actor>
-      <actor>Холт Маккэллани</actor>
-    </credits>
-  </programme>
-  <programme start="20251210072100 +0300" stop="20251210093000 +0300" channel="voennyj_nyryal_schik">
-    <title>Военный ныряльщик</title>
-    <desc>[Статус: Released] 
-[Оригинальное название: Men of Honor] 
-Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.</desc>
-    <icon src="https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg"/>
-    <category>драма</category>
-    <date>2000</date>
-    <country>United States of America</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 7.5</value></rating>
-    <credits>
-      <director>George Tillman Jr.</director>
-      <actor>Роберт Де Ниро</actor>
-      <actor>Кьюба Гудинг мл.</actor>
-      <actor>Шарлиз Терон</actor>
-      <actor>Aunjanue Ellis-Taylor</actor>
-      <actor>Хэл Холбрук</actor>
-      <actor>Michael Rapaport</actor>
-      <actor>Пауэрс Бут</actor>
-      <actor>Дэвид Кит</actor>
-      <actor>Дьюли Хилл</actor>
-      <actor>Холт Маккэллани</actor>
-    </credits>
-  </programme>
-  <programme start="20251210093000 +0300" stop="20251210113900 +0300" channel="voennyj_nyryal_schik">
-    <title>Военный ныряльщик</title>
-    <desc>[Статус: Released] 
-[Оригинальное название: Men of Honor] 
-Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.</desc>
-    <icon src="https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg"/>
-    <category>драма</category>
-    <date>2000</date>
-    <country>United States of America</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 7.5</value></rating>
-    <credits>
-      <director>George Tillman Jr.</director>
-      <actor>Роберт Де Ниро</actor>
-      <actor>Кьюба Гудинг мл.</actor>
-      <actor>Шарлиз Терон</actor>
-      <actor>Aunjanue Ellis-Taylor</actor>
-      <actor>Хэл Холбрук</actor>
-      <actor>Michael Rapaport</actor>
-      <actor>Пауэрс Бут</actor>
-      <actor>Дэвид Кит</actor>
-      <actor>Дьюли Хилл</actor>
-      <actor>Холт Маккэллани</actor>
-    </credits>
-  </programme>
-  <programme start="20251210113900 +0300" stop="20251210134800 +0300" channel="voennyj_nyryal_schik">
-    <title>Военный ныряльщик</title>
-    <desc>[Статус: Released] 
-[Оригинальное название: Men of Honor] 
-Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.</desc>
-    <icon src="https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg"/>
-    <category>драма</category>
-    <date>2000</date>
-    <country>United States of America</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 7.5</value></rating>
-    <credits>
-      <director>George Tillman Jr.</director>
-      <actor>Роберт Де Ниро</actor>
-      <actor>Кьюба Гудинг мл.</actor>
-      <actor>Шарлиз Терон</actor>
-      <actor>Aunjanue Ellis-Taylor</actor>
-      <actor>Хэл Холбрук</actor>
-      <actor>Michael Rapaport</actor>
-      <actor>Пауэрс Бут</actor>
-      <actor>Дэвид Кит</actor>
-      <actor>Дьюли Хилл</actor>
-      <actor>Холт Маккэллани</actor>
-    </credits>
-  </programme>
-  <programme start="20251210134800 +0300" stop="20251210155700 +0300" channel="voennyj_nyryal_schik">
-    <title>Военный ныряльщик</title>
-    <desc>[Статус: Released] 
-[Оригинальное название: Men of Honor] 
-Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.</desc>
-    <icon src="https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg"/>
-    <category>драма</category>
-    <date>2000</date>
-    <country>United States of America</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 7.5</value></rating>
-    <credits>
-      <director>George Tillman Jr.</director>
-      <actor>Роберт Де Ниро</actor>
-      <actor>Кьюба Гудинг мл.</actor>
-      <actor>Шарлиз Терон</actor>
-      <actor>Aunjanue Ellis-Taylor</actor>
-      <actor>Хэл Холбрук</actor>
-      <actor>Michael Rapaport</actor>
-      <actor>Пауэрс Бут</actor>
-      <actor>Дэвид Кит</actor>
-      <actor>Дьюли Хилл</actor>
-      <actor>Холт Маккэллани</actor>
-    </credits>
-  </programme>
-  <programme start="20251210155700 +0300" stop="20251210180600 +0300" channel="voennyj_nyryal_schik">
-    <title>Военный ныряльщик</title>
-    <desc>[Статус: Released] 
-[Оригинальное название: Men of Honor] 
-Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.</desc>
-    <icon src="https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg"/>
-    <category>драма</category>
-    <date>2000</date>
-    <country>United States of America</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 7.5</value></rating>
-    <credits>
-      <director>George Tillman Jr.</director>
-      <actor>Роберт Де Ниро</actor>
-      <actor>Кьюба Гудинг мл.</actor>
-      <actor>Шарлиз Терон</actor>
-      <actor>Aunjanue Ellis-Taylor</actor>
-      <actor>Хэл Холбрук</actor>
-      <actor>Michael Rapaport</actor>
-      <actor>Пауэрс Бут</actor>
-      <actor>Дэвид Кит</actor>
-      <actor>Дьюли Хилл</actor>
-      <actor>Холт Маккэллани</actor>
-    </credits>
-  </programme>
-  <programme start="20251210180600 +0300" stop="20251210201500 +0300" channel="voennyj_nyryal_schik">
-    <title>Военный ныряльщик</title>
-    <desc>[Статус: Released] 
-[Оригинальное название: Men of Honor] 
-Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.</desc>
-    <icon src="https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg"/>
-    <category>драма</category>
-    <date>2000</date>
-    <country>United States of America</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 7.5</value></rating>
-    <credits>
-      <director>George Tillman Jr.</director>
-      <actor>Роберт Де Ниро</actor>
-      <actor>Кьюба Гудинг мл.</actor>
-      <actor>Шарлиз Терон</actor>
-      <actor>Aunjanue Ellis-Taylor</actor>
-      <actor>Хэл Холбрук</actor>
-      <actor>Michael Rapaport</actor>
-      <actor>Пауэрс Бут</actor>
-      <actor>Дэвид Кит</actor>
-      <actor>Дьюли Хилл</actor>
-      <actor>Холт Маккэллани</actor>
-    </credits>
-  </programme>
-  <programme start="20251210201500 +0300" stop="20251210222400 +0300" channel="voennyj_nyryal_schik">
-    <title>Военный ныряльщик</title>
-    <desc>[Статус: Released] 
-[Оригинальное название: Men of Honor] 
-Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.</desc>
-    <icon src="https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg"/>
-    <category>драма</category>
-    <date>2000</date>
-    <country>United States of America</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 7.5</value></rating>
-    <credits>
-      <director>George Tillman Jr.</director>
-      <actor>Роберт Де Ниро</actor>
-      <actor>Кьюба Гудинг мл.</actor>
-      <actor>Шарлиз Терон</actor>
-      <actor>Aunjanue Ellis-Taylor</actor>
-      <actor>Хэл Холбрук</actor>
-      <actor>Michael Rapaport</actor>
-      <actor>Пауэрс Бут</actor>
-      <actor>Дэвид Кит</actor>
-      <actor>Дьюли Хилл</actor>
-      <actor>Холт Маккэллани</actor>
-    </credits>
-  </programme>
-  <programme start="20251210222400 +0300" stop="20251211003300 +0300" channel="voennyj_nyryal_schik">
-    <title>Военный ныряльщик</title>
-    <desc>[Статус: Released] 
-[Оригинальное название: Men of Honor] 
-Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.</desc>
-    <icon src="https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg"/>
-    <category>драма</category>
-    <date>2000</date>
-    <country>United States of America</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 7.5</value></rating>
-    <credits>
-      <director>George Tillman Jr.</director>
-      <actor>Роберт Де Ниро</actor>
-      <actor>Кьюба Гудинг мл.</actor>
-      <actor>Шарлиз Терон</actor>
-      <actor>Aunjanue Ellis-Taylor</actor>
-      <actor>Хэл Холбрук</actor>
-      <actor>Michael Rapaport</actor>
-      <actor>Пауэрс Бут</actor>
-      <actor>Дэвид Кит</actor>
-      <actor>Дьюли Хилл</actor>
-      <actor>Холт Маккэллани</actor>
-    </credits>
-  </programme>
-  <programme start="20251211003300 +0300" stop="20251211024200 +0300" channel="voennyj_nyryal_schik">
-    <title>Военный ныряльщик</title>
-    <desc>[Статус: Released] 
-[Оригинальное название: Men of Honor] 
-Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.</desc>
-    <icon src="https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg"/>
-    <category>драма</category>
-    <date>2000</date>
-    <country>United States of America</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 7.5</value></rating>
-    <credits>
-      <director>George Tillman Jr.</director>
-      <actor>Роберт Де Ниро</actor>
-      <actor>Кьюба Гудинг мл.</actor>
-      <actor>Шарлиз Терон</actor>
-      <actor>Aunjanue Ellis-Taylor</actor>
-      <actor>Хэл Холбрук</actor>
-      <actor>Michael Rapaport</actor>
-      <actor>Пауэрс Бут</actor>
-      <actor>Дэвид Кит</actor>
-      <actor>Дьюли Хилл</actor>
-      <actor>Холт Маккэллани</actor>
-    </credits>
-  </programme>
-  <programme start="20251211024200 +0300" stop="20251211045100 +0300" channel="voennyj_nyryal_schik">
-    <title>Военный ныряльщик</title>
-    <desc>[Статус: Released] 
-[Оригинальное название: Men of Honor] 
-Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.</desc>
-    <icon src="https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg"/>
-    <category>драма</category>
-    <date>2000</date>
-    <country>United States of America</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 7.5</value></rating>
-    <credits>
-      <director>George Tillman Jr.</director>
-      <actor>Роберт Де Ниро</actor>
-      <actor>Кьюба Гудинг мл.</actor>
-      <actor>Шарлиз Терон</actor>
-      <actor>Aunjanue Ellis-Taylor</actor>
-      <actor>Хэл Холбрук</actor>
-      <actor>Michael Rapaport</actor>
-      <actor>Пауэрс Бут</actor>
-      <actor>Дэвид Кит</actor>
-      <actor>Дьюли Хилл</actor>
-      <actor>Холт Маккэллани</actor>
-    </credits>
-  </programme>
-  <programme start="20251211045100 +0300" stop="20251211070000 +0300" channel="voennyj_nyryal_schik">
-    <title>Военный ныряльщик</title>
-    <desc>[Статус: Released] 
-[Оригинальное название: Men of Honor] 
-Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.</desc>
-    <icon src="https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg"/>
-    <category>драма</category>
-    <date>2000</date>
-    <country>United States of America</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 7.5</value></rating>
-    <credits>
-      <director>George Tillman Jr.</director>
-      <actor>Роберт Де Ниро</actor>
-      <actor>Кьюба Гудинг мл.</actor>
-      <actor>Шарлиз Терон</actor>
-      <actor>Aunjanue Ellis-Taylor</actor>
-      <actor>Хэл Холбрук</actor>
-      <actor>Michael Rapaport</actor>
-      <actor>Пауэрс Бут</actor>
-      <actor>Дэвид Кит</actor>
-      <actor>Дьюли Хилл</actor>
-      <actor>Холт Маккэллани</actor>
-    </credits>
-  </programme>
-  <programme start="20251211070000 +0300" stop="20251211090900 +0300" channel="voennyj_nyryal_schik">
-    <title>Военный ныряльщик</title>
-    <desc>[Статус: Released] 
-[Оригинальное название: Men of Honor] 
-Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.</desc>
-    <icon src="https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg"/>
-    <category>драма</category>
-    <date>2000</date>
-    <country>United States of America</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 7.5</value></rating>
-    <credits>
-      <director>George Tillman Jr.</director>
-      <actor>Роберт Де Ниро</actor>
-      <actor>Кьюба Гудинг мл.</actor>
-      <actor>Шарлиз Терон</actor>
-      <actor>Aunjanue Ellis-Taylor</actor>
-      <actor>Хэл Холбрук</actor>
-      <actor>Michael Rapaport</actor>
-      <actor>Пауэрс Бут</actor>
-      <actor>Дэвид Кит</actor>
-      <actor>Дьюли Хилл</actor>
-      <actor>Холт Маккэллани</actor>
-    </credits>
-  </programme>
-  <programme start="20251211090900 +0300" stop="20251211111800 +0300" channel="voennyj_nyryal_schik">
-    <title>Военный ныряльщик</title>
-    <desc>[Статус: Released] 
-[Оригинальное название: Men of Honor] 
-Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.</desc>
-    <icon src="https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg"/>
-    <category>драма</category>
-    <date>2000</date>
-    <country>United States of America</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 7.5</value></rating>
-    <credits>
-      <director>George Tillman Jr.</director>
-      <actor>Роберт Де Ниро</actor>
-      <actor>Кьюба Гудинг мл.</actor>
-      <actor>Шарлиз Терон</actor>
-      <actor>Aunjanue Ellis-Taylor</actor>
-      <actor>Хэл Холбрук</actor>
-      <actor>Michael Rapaport</actor>
-      <actor>Пауэрс Бут</actor>
-      <actor>Дэвид Кит</actor>
-      <actor>Дьюли Хилл</actor>
-      <actor>Холт Маккэллани</actor>
-    </credits>
-  </programme>
-  <programme start="20251211111800 +0300" stop="20251211132700 +0300" channel="voennyj_nyryal_schik">
-    <title>Военный ныряльщик</title>
-    <desc>[Статус: Released] 
-[Оригинальное название: Men of Honor] 
-Фильм основан на реальных событиях из жизни легендарного водолаза Карла Брашира. Его наставник и старший офицер Билл Сандэй убежден, что неграм нечего делать во флоте, и самыми жестокими и бесчеловечными способами издевается и «обламывает» амбициозного новичка.Однако ему это не удается, и более того, вскоре он начинает испытывать симпатию к этому чрезвычайно упертому парню, который скорее погибнет, чем покажет слабость. Вместе они пытаются сопротивляться бюрократам из командования ВМФ, которых не устраивает цвет кожи героя.Карл всегда вызывается добровольцем на выполнение самых опасных секретных спецопераций, связанных с повышенным риском для жизни. Однако судьба приготовила ему куда более страшное испытание, преодолеть которое способен только настоящий герой.</desc>
-    <icon src="https://image.tmdb.org/t/p/w500/ysKAwziuy7cZhLNBYMTL2PVlpux.jpg"/>
-    <category>драма</category>
-    <date>2000</date>
-    <country>United States of America</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 7.5</value></rating>
-    <credits>
-      <director>George Tillman Jr.</director>
-      <actor>Роберт Де Ниро</actor>
-      <actor>Кьюба Гудинг мл.</actor>
-      <actor>Шарлиз Терон</actor>
-      <actor>Aunjanue Ellis-Taylor</actor>
-      <actor>Хэл Холбрук</actor>
-      <actor>Michael Rapaport</actor>
-      <actor>Пауэрс Бут</actor>
-      <actor>Дэвид Кит</actor>
-      <actor>Дьюли Хилл</actor>
-      <actor>Холт Маккэллани</actor>
-    </credits>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
 </tv>
