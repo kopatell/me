@@ -57,7 +57,7 @@
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20251217150600 +0300" stop="20251217164100 +0300" channel="1_kanal_hd">
-    <title>х/ф. Турбулентность (2025)</title>
+    <title>[R] х/ф. Турбулентность (2025)</title>
     <desc>«Молодая супружеская пара Зак и Эмми, чтобы вновь разжечь искру в отношениях, решают отправиться в полёт на воздушном шаре над величественными Доломитовыми Альпами в Италии. Но перед полётом к ним и опытному инструктору Гарри неожиданно присоединяется попутчица Джулия. На высоте 5 тысяч метров, где воздух разряжён, а земля кажется далёкой игрушкой, всё выходит из-под контроля. То, что задумывалось как романтическое приключение всей жизни, оборачивается настоящей борьбой за выживание».
     [Студия: Altitude Film Sales, Премьера: (2025.11.26)]</desc>
     <icon src="https://image.tmdb.org/t/p/w300/vOV4Qy3g791OTzEndiSGoJwuI2M.jpg"/>
@@ -69,8 +69,8 @@
     <sub-title>«Страх уносит жизни»</sub-title>
     <date>2025</date>
     <country>United States of America, United Kingdom</country>
-    <rating system="onscreen"="MPAA"><value>R</value></rating>
-    <rating system="onscreen"="TMDb"><value>TMDb 6.9</value></rating>
+    <rating system="MPAA"><value>R</value></rating>
+    <rating system="TMDb"><value>TMDb 6.9</value></rating>
     <credits>
       <director>Claudio Fäh</director>
       <actor>Гера Хильмар</actor>
