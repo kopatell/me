@@ -1,26 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="1_kanal_hd">
-    <display-name>1 канал HD</display-name>
-  </channel>
-  <programme start="20251217120000 +0300" stop="20251217133500 +0300" channel="1_kanal_hd">
-    <title>[R] х/ф. Турбулентность [Turbulence]</title>
-    <category>боевик</category>
-    <category>триллер</category>
-    <category>приключения</category>
-    <category>драма</category>
-    <category>фэнтези</category>
-    <sub-title>«Страх уносит жизни»</sub-title>
-    <date>2025</date>
-    <country>United States of America, United Kingdom</country>
-  </programme>
-  <programme start="20251217133500 +0300" stop="20251217143400 +0300" channel="1_kanal_hd">
-    <title>[18+] т/с. Робин Гуд [Robin Hood] . S1E1: «Я вижу его»</title>
-    <category>драма</category>
-    <category>Боевик и Приключения</category>
-    <date>2025</date>
-    <country>United States of America</country>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
+<channel id="1_kanal_hd"><display-name>1 канал HD</display-name></channel>
+<programme start="20251217120000 +0300" stop="20251217133500 +0300" channel="1_kanal_hd"><title>[R] х/ф. Турбулентность (2025) [Turbulence]</title></programme>
+<programme start="20251217133500 +0300" stop="20251217143400 +0300" channel="1_kanal_hd"><title>[18+] т/с. Робин Гуд (2025) [Robin Hood] . S1E1: «Я вижу его»</title><episode-num system="xmltv_ns">0.0.</episode-num><episode-num system="onscreen">S1E1</episode-num></programme>
 </tv>
