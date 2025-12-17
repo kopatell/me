@@ -5,7 +5,7 @@
     <icon src="https://iptvx.one/picons/pervy.png" />
   </channel>
   <programme start="20251217120000 +0300" stop="20251217133500 +0300" channel="1_kanal_hd">
-    <title>[R] х/ф. «Турбулентность»</title>
+    <title>[R] х/ф. Турбулентность</title>
     <desc>[R, Turbulence, TMDb 5.9, KP 8.9] Молодая супружеская пара Зак и Эмми, чтобы вновь разжечь искру в отношениях, решают отправиться в полёт на воздушном шаре над величественными Доломитовыми Альпами в Италии. Но перед полётом к ним и опытному инструктору Гарри неожиданно присоединяется попутчица Джулия. На высоте 5 тысяч метров, где воздух разряжён, а земля кажется далёкой игрушкой, всё выходит из-под контроля. То, что задумывалось как романтическое приключение всей жизни, оборачивается настоящей борьбой за выживание.[Студия: Altitude Film Sales, Премьера: 2025-11-26]</desc>
     <icon src="https://image.tmdb.org/t/p/w154/uTXgSkZdHeNIDfveUgxjlDaqAd1.jpg"/>
     <category>боевик</category>
@@ -13,19 +13,19 @@
     <category>приключения</category>
     <category>драма</category>
     <category>фэнтези</category>
-    <sub-title>Страх уносит жизни</sub-title>
+    <sub-title>«Страх уносит жизни»</sub-title>
     <date>2025</date>
     <country>United States of America</country>
     <country>United Kingdom</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 6.9</value></rating>
-    <rating system="KP"><value>KP 8.9</value></rating>
+    <rating system="MPAA"><value>R»</value></rating>
+    <rating system="TMDb"><value>«TMDb 6.9»</value></rating>
+    <rating system="KP"><value>«KP 8.9»</value></rating>
     <credits>
       <director>Claudio Fäh</director>
       <actor>Гера Хильмар</actor>
       <actor>Джереми Ирвин</actor>
       <actor>Келси Грэммер</actor>
-      <actor>Ольга Куриленко</actor>
+      <actor>«Ольга Куриленко»</actor>
       <actor>Lionel Robert Blanc</actor>
       <actor>Стюарт Вилан</actor>
       <actor>Елена Бушуева</actor>
