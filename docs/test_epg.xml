@@ -19,7 +19,7 @@
     <country>United Kingdom</country>
     <rating system="MPAA"><value>R</value></rating>
     <rating system="TMDb"><value>TMDb 6.9</value></rating>
-    <rating system="TMDb"><value>KP 8.9</value></rating>
+    <rating system="KP"><value>KP 8.9</value></rating>
     <credits>
       <director>Claudio Fäh</director>
       <actor>Гера Хильмар</actor>
@@ -66,7 +66,7 @@
   </programme>
   <programme start="20251217143400 +0300" stop="20251217160700 +0300" channel="1_kanal_hd">
     <title>т/с. Купер и Фрай . Сезон 1: Эпизод 1</title>
-    <desc>[Cooper & Fry, TMDb 9.0] Местный детектив Бен Купер и замкнутый новичок Диана Фрай становятся напарниками для расследования череды загадочных убийств. [Студия: Clapperboard Studios, Премьера: 2025.11.18, Сезонов: 1 Эпизодов: 4, Последний эпизод: Эпизод 4 (09.12.2025)]</desc>
+    <desc>[Cooper &amp; Fry, TMDb 9.0] Местный детектив Бен Купер и замкнутый новичок Диана Фрай становятся напарниками для расследования череды загадочных убийств. [Студия: Clapperboard Studios, Премьера: 2025.11.18, Сезонов: 1 Эпизодов: 4, Последний эпизод: Эпизод 4 (09.12.2025)]</desc>
     <icon src="https://image.tmdb.org/t/p/w300/xtPhIamGPQYYC8JaKsGOvEWZvf3.jpg"/>
     <category>криминал</category>
     <category>драма</category>
@@ -90,7 +90,7 @@
   </programme>
   <programme start="20251217160700 +0300" stop="20251217174000 +0300" channel="1_kanal_hd">
     <title>т/с. Купер и Фрай . Сезон 1: Эпизод 2</title>
-    <desc>[Cooper & Fry, TMDb 9.0] Местный детектив Бен Купер и замкнутый новичок Диана Фрай становятся напарниками для расследования череды загадочных убийств. [Студия: Clapperboard Studios, Премьера: 2025.11.18, Сезонов: 1 Эпизодов: 4, Последний эпизод: Эпизод 4 (09.12.2025)]</desc>
+    <desc>[Cooper &amp; Fry, TMDb 9.0] Местный детектив Бен Купер и замкнутый новичок Диана Фрай становятся напарниками для расследования череды загадочных убийств. [Студия: Clapperboard Studios, Премьера: 2025.11.18, Сезонов: 1 Эпизодов: 4, Последний эпизод: Эпизод 4 (09.12.2025)]</desc>
     <icon src="https://image.tmdb.org/t/p/w300/2giDOaOs4x3vLv64k4wsPdEUzx7.jpg"/>
     <category>криминал</category>
     <category>драма</category>
