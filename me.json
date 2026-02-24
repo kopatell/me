@@ -1,43 +1,134 @@
 [
   {
-    "name": "The Mannequin",
-    "category": "Фильмы",
-    "video": "https://976-58b-502gv.stream-balancer-allo-1.live/0/rN0TjRO_ZJmv5rOFZAiw5rw7I1xGPvo7SBBCyHfEG-RDGEsFtoIHZGqWRfY3x4qvrRf_coet5CAkYOHT1NbsXL7ZuABmZtlWtco75kAolhU54uf2Hdu6MRvAPw3sWFmWL9UwAYGFe82XFtK7SWWxtnHpkLFoXQ29ZO_y3PTFYmwdAoMaRQbVAQ7-wYt667DXo0N4z6lydNWkQ92v-d2oKgEalw_TAi4pnQdWaHKHHgp5J4clTTPJtCwTf7W949Gt0UKVCr_K24tmCAlBEk-hMCcsBu39CQA37IlcjbItbYQtFH8rVDKTvkvVH2-vtGJStyhW8XIpf_2EXV0HhHZ7ISRttLvv6iO4CUN2HdP9sRTlh_mUFh3lDzv8mMUnoxQquPpe5fiH34Q6YR-he0wXKOuYevHteMc_pkEj_WS48-CI5HVEDRbo9iRJbM62cr8iB3mAY7GF7kaDae_gBeX6N419ENhuaTHF4J2PHkI52tRCTTEWSGC-rXORwV0WOt34wPaaWtLwFowSDOJGLjXRo8q4yOsLhldrd4H21tonjn9wVRI8WsSVzwavYGKpLfz-kSk3PV0IAj8fhbsMCyZu1Ff8UOSQb0BlrwSXM31HneE5u9Bodlg4qW5Dup4Y9b-K6ehiV7IznJ5CnQFvJrmfTnuDAmwquZ11HtbVlDyHg2VP8ZApnulHlY40SFo1FpodN6HXlaxaXWl5FBGM2aYhvo1MKXEQTylbxT5ichBzbSMozngCqYtjLut5dAnpa081uFWWgbSRVI0AVYatM_U-sWoECUqQsOECGGLxgQwlEzinNYrlI9V4vBqpsYyPiNBb6oIbvXzq7yHH5E9jTE0jb5JjPbewT09gsvuOEy6RktvDtfpBbolaoFZvGxDwM3VWJH5EfK36QVt3b5y-yWbzKgJIUwMZSBBuCLcQYJaMkTGLsZgbH5C7BhYKkUN4ASiIh26GGPNeb2BgctrooN9MX5TEFp6aSaQ2JkJaR-ts5e-Od6cyXvMe2xlvc9PAkaQG6YNg8z3iWe3Aukriz0qE1JIImgv4Sjptr7zw1BzB3MZH9dFH6fOb48i7zMQZUGRAuQND8qGCTtoB0eGSDnjqv_NDHFM3d67r9fK9CC5r1qC7-rZQx7tS2Q_mbR9muzRj5UL8IjdYbgYnMoqHwp1Mk9CWRcycuO1Iw6rwnIWzCSE-IFe94qYqa6SWLprP4q3ZQm1aWzeyhrfAos4NNDbHexpKj5ksYzd3S198WnKcGlii0q2VcXRBUsV7Hy5Tppxsb9GFufw38Hw_Oh1MCEVqpdCF4nd8dQ-MV7tGoYrf6KZ0k-01P3SX3iyI5338skPrgZVoizt9bre8bLBlEo_Zeei2ZHL2iBKEFK9d2_tW9VZSueKfgueYfmlQrTl1Z3jm_uTbOcmcIumLXN3R0R8-N9DdRYWx6blW1fEegdhIeDjhLAFZNdC2zSjz6gnYO6YJuZjyqt8gmkK9IEuBaX9iIzbjYmqbu4-EDAPFPwVe0e9JId3JixO-ebJwHlU7wrIdQem-htXv4qfK57IzegSGQrNmoW4_stlGa4khFTWoltP-sBnGHUlWqaQV1P5yCQW0xuVlM_Swxcw-VJ1aQWQGVAZ5SZHOWTTvxqYDXlgU0kS5BseyaMg/master.m3u8",
+    "name": "Робин Гуд",
+    "category": "Киношка",
     "info": {
       "year": 2025,
-      "rating": "TMDb 5.5",
-      "duration": 5220,
-      "plot": "В ролях: Isabella Gómez, Lindsay LaVanchy, Shireen Lai, Maxwell Hamilton, Gabriella Rivera, Jack Sochet\nРежиссёр(ы): John Berardo\nОригинал: The Mannequin\nNR  •  2025  •  United States of America  •  87 мин.\nTMDb 5.5; TMDb ID: 1169210\nЖанр: ужасы, триллер, криминал, детектив\nПремьера: 2025-08-24\nСтудия: Shatterproof Films",
-      "poster": "https://image.tmdb.org/t/p/w500/oFTpB1gzS02LtrsenTWxOKbsMpM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/original/z6Pi72HrGhc50GDhDdREUTEh2xm.jpg",
-      "bg": "https://image.tmdb.org/t/p/original/z6Pi72HrGhc50GDhDdREUTEh2xm.jpg",
+      "rating": "TMDb 7.5",
+      "duration": 3600,
+      "plot": "\"Роб, саксонский разбойник, и Мариан, нормандская дворянка, объединяются, чтобы бороться с несправедливостью после нормандского завоевания. Он возглавляет отряд мятежников, а она внедряется в коррумпированный двор. Оба стремятся к справедливости и миру.\".\nВ ролях: Джек Паттен, Лорен МакКуин, Лидия Пекхэм, Маркус Фрэйзер, Генри Роули, Эрика Форд, Энгус Касл-Даути, Стивен Вэддингтон, Конни Нильсен, Шон Бин\nРежиссёр(ы): Джонатан Инглиш, Джон Гленн\nОригинал: Robin Hood\n18+  •  2025  •  United States of America  •  TMDb 7.5; TMDb ID: 272418\nЖанр: драма, Боевик и Приключения\nПремьера: 2025-11-02\nСтудия: Lionsgate Television\n\nИнформация о сериале:\nСезонов: 1\nЭпизодов: 10\nПоследний эпизод: Эпизод 10: Один враг погибает, другой возвышается (28.12.2025)",
+      "poster": "https://image.tmdb.org/t/p/w92/pZycMzExEItZ4RGZ20drSbDq5Wc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w300/uoIOfRNmu47P2fET2KnrYHt3TH.jpg",
+      "bg": "https://image.tmdb.org/t/p/w300/uoIOfRNmu47P2fET2KnrYHt3TH.jpg",
       "cast": [
-        "Isabella Gómez",
-        "Lindsay LaVanchy",
-        "Shireen Lai",
-        "Maxwell Hamilton",
-        "Gabriella Rivera",
-        "Jack Sochet"
+        "Джек Паттен",
+        "Лорен МакКуин",
+        "Лидия Пекхэм",
+        "Маркус Фрэйзер",
+        "Генри Роули",
+        "Эрика Форд",
+        "Энгус Касл-Даути",
+        "Стивен Вэддингтон",
+        "Конни Нильсен",
+        "Шон Бин"
       ],
       "director": [
-        "John Berardo"
+        "Джонатан Инглиш",
+        "Джон Гленн"
       ],
       "country": [
         "United States of America"
       ],
       "genre": [
-        "ужасы",
-        "триллер",
-        "криминал",
+        "драма",
+        "Боевик и Приключения"
+      ],
+      "studio": "Lionsgate Television",
+      "tmdb": 272418
+    },
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 2,
+            "name": "Гнусный дьявол",
+            "video": "https://secret.sambray.org/eff3ff2cebb6fd0e041d9e97fbe088e8:2026022509:ckFTMVRtQURvSkI1anIydmNsbVlNMC83YkFrOHNobmhwUGlWOUk5aTk5TDRhSzROYXNOOEJXVVdwUGM3M0pJZ3ZPdkNiOEN4NnhhOEpndktyYlVmRkE9PQ==/1/3/6/9/0/6/8/3tr7t.mp4:hls:manifest.m3u8",
+            "info": {
+              "duration": 3600,
+              "plot": "\"Роберт теряет обоих родителей. Хантингтон подкупает чиновников, чтобы захватить земли и стать графом, а его дочь узнает о его причастности к казни Хью. Мэриан и Роберт признаются друг другу в любви, но их плану побега не суждено сбыться. Когда Лефорс пытается арестовать Робина, он стреляет в него из лука и убегает в лес.\".\n18+  •  2025  •  United States of America  •  60 мин.\nTMDb 7.5; TMDb ID: 272418\nЖанр: драма, Боевик и Приключения\nПремьера: 2025-11-02\nСтудия: Lionsgate Television",
+              "poster": "https://image.tmdb.org/t/p/w300/AtrmCKPdDKD6ufCSIjeXRViUhWG.jpg",
+              "rating": "TMDb 7.2"
+            }
+          },
+          {
+            "episode": 10,
+            "name": "Я вижу его",
+            "video": "https://blitz.sambray.org/6277aa0ffc6d5045efdfbbd7953be7aa:2026022509:ckFTMVRtQURvSkI1anIydmNsbVlNMklyczNSekxQVWs2WHp5azVhbWxBNHlYYy8wT0V5YlpRTy9FOXFlYW5vTWs0ZzNGUUYvZlhkdGhPVWp3N2dkOXc9PQ==/1/3/9/6/1/2/7/g26jo.mp4:hls:manifest.m3u8",
+            "info": {
+              "duration": 3600,
+              "plot": "\"После того как нормандцы захватили саксонские земли, в лесах начало назревать восстание. Хью пытается вернуть свое поместье, но вместо этого шериф дает ему должность лесничего. Его сын Робин становится искусным лучником и встречает Мэриан, дочь дворянина Хантингтона.\".\n18+  •  2025  •  United States of America  •  60 мин.\nTMDb 7.5\nЖанр: драма, Боевик и Приключения\nПремьера: 2025-11-02\nСтудия: Lionsgate Television",
+              "poster": "https://image.tmdb.org/t/p/w300/iGXov4pwqxoRXpcHIraR453Fbcs.jpg",
+              "rating": "TMDb 6.2"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Назад в прошлое",
+    "category": "Сериалы",
+    "info": {
+      "year": 2023,
+      "rating": "TMDb 7.1",
+      "duration": 3000,
+      "plot": "\"Известный хирург Марк Оноре 31 декабря был найден мертвым. Он был уверен, что кто-то специально убивает его пациентов, но ему мало кто верил. Тело находят бывшая жена Марка Анна, которая крутит роман с молодым коллегой погибшего, лучший друг хирурга Седрик и лейтенант полиции Джульетта, которая считает, что именно Марк виновен в гибели ее супруга на операционном столе. Вся эта троица спускается в лифте и каким-то чудесным образом перемещается в прошлое — ровно на год назад. Теперь Анна, Седрик и Джульетта могут всё изменить.\".\nВ ролях: Claire Keim, Émilie Dequenne, Marc Riso, Marc Ruchmann, Éric Caravaca, Foëd Amara, Loup-Denis Elion, Élisa Erka\nРежиссёр(ы): Olivier Barma\nОригинал: Année zéro\n2023  •  France, Belgium  •  TMDb 7.1; TMDb ID: 209801\nЖанр: НФ и Фэнтези, детектив\nПремьера: 2023-01-03\nСтудия: Merlin Productions\n\nИнформация о сериале:\nСезонов: 1\nЭпизодов: 4\nПоследний эпизод: Эпизод 4: Эпизод 4 (10.01.2023)",
+      "poster": "https://image.tmdb.org/t/p/w500/obPuULLsh6xXOpv7uF7Zyf67CM3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/original/lzbsn8wvJwmpL2EijSMoWJfj3yN.jpg",
+      "bg": "https://image.tmdb.org/t/p/original/lzbsn8wvJwmpL2EijSMoWJfj3yN.jpg",
+      "cast": [
+        "Claire Keim",
+        "Émilie Dequenne",
+        "Marc Riso",
+        "Marc Ruchmann",
+        "Éric Caravaca",
+        "Foëd Amara",
+        "Loup-Denis Elion",
+        "Élisa Erka"
+      ],
+      "director": [
+        "Olivier Barma"
+      ],
+      "country": [
+        "France",
+        "Belgium"
+      ],
+      "genre": [
+        "НФ и Фэнтези",
         "детектив"
       ],
-      "studio": "Shatterproof Films",
-      "tmdb": 1169210
+      "studio": "Merlin Productions",
+      "tmdb": 209801
     },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
-      "Referer": "https://agent-venom-as.newplayjj.com:9443/?kp=5107579&token=6c9781a2b7af2bc4b14dc5bfb30dd0",
-      "Origin": "https://agent-venom-as.newplayjj.com:9443"
-    }
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "name": "Назад в прошлое - Сезон 1. Эпизод 1",
+            "video": "https://976-58b-502gv.stream-balancer-allo-1.live/65/JgiQarZgU69M2XWtE1PEQSHDUcjxaK7ULjUQd_XL3Pw0CrQcnTI9npy9oSsiIF607A7kgV_e-GCyI2WCIXiuv8hHafqDkf6Cgtwq82rovt5MbZB4tn0BkFxflVbbRAOV2qUyyzgu0FtsYWBqURBvBMqX1I3TQcDwcSCnENUkpT-QJM6Ik9qi2_rv2rZvqm3APqk3ecBUptj2surMeqAwCTB6WPTRmPKXepn7iXLXJWDjC4mC3lnx9mmqGaKBXEkvMcVfu1WI019biCjqGdnHXjfkoppldMB4WdddHinSqlYxByLNqaLLWo-yMZ3Fd7lGxr742jFoWyOnaL5-uS_Cr5Jn_VX5vqUKQ6UWKXrZh_zEA5xcVNRsfr5O1ghn0W2VTwPt4yk4dGymSwflsr_Mp-FUZo3hL-epgkIsRyBMBLiqZdC4FHsaZ3NfnD1cDBMUQVqmPyoc66-nQNhu3IdrtQvMwvlG9sqF6YuyhHJzmBB1aROG4XBcx8lD9YpUXiLpPf_Fk2TQp41Xg_05VLEz_lZCWn6etVK4WgRrSJGLxhub4phzg10AF4sq0ttImp34RiV10W2Oc39YZMc4zqoikBqiYoltVQUhST4uPtQviGT8YobjyhdxerX4kBGKyXvz4KAP7Qh9Jp0IuIf3Tq4Mn2hul8iceBNWeLKaOrz9L0iq8MgCFnCNAMBTISg0jTbPj9cmVqxCzOcZtGIJ5sdQz_QcFj6tQqDWRhU5jhRfHGPTo5DjPWqQvsbC4odKtZjwhaVy5NcVkhtbjCVn1LX3_E31yQq-p2RwuifFNwUKD4dpZy1KhIkGuseBPm4ApzQZPF_pF_esKvzHUOPnQIjmcJQd3g19hVxEPb9-ySFrCR_tKtoF7hIpzKa1r8UVx_NsGU3B7OBUzcoGOt4sy3vtl5OQWsqugsFP7F2cVm-07_JMMjyh2JEz86sLR20Uxgx-WzZCp9V9X8BeGHQuJFCVEoBfMY19tSz8EwG0K3j1Vxdt6U0E9CGZh9Fisn-rKmgtXboFho_5PiwZCVb8DAMyjh3NpW8y4coLUctaMWE0TgnQyFIr9G9d4zQJs5j7V85TklLUiwJgaQm11cXWprEdH6Uc8fIxvgLkiiIZ7Hfw5dK8h17eOGpIxkb5yKq4rivaXOF-rVKEM8FwdI5cWvQkCl4lbi72aWA1IoYUw6Hmy0ThOvRuZ18xgAYpeMoCZR3KV7ZtmKkHDDUeOJZvUFb5Re-9yu2eVpyEqXOj1LoDtUkpquYZwHf2Qoj_WMBf1XFYaL7Jj9JN2XmiAdgBOxnm-QSCOJU4oaMXvbrUxPAxaiHN7w1URboCDcBWYXmLnvbIqBZc01aW2Ub_qmUl0zGMJBpQrNZ1Qie5_1DqD0YNdJJuzKNnqZf-Nc-mKOrRsBUCIluOFxaiUXmpIhD_oCPyc9buUAL8S13IoWEUTod6XnOP0rXwpnn-uMm0eV2ceeiO7IPHUBdTr5Yc_SchpAh_s2nmGSx3W_F9mHS7ZH8A2yJi3P9c5kRdkzcKfh0mndwCATW2lpC4K73qemoFCKWi4clMR1D8sWItosWMGRN52idGIkTzy8TuffqfZOCHtg7xCmlkYR0ErhiwCk0NWbEL6hkKXr6pxacW4H7nomz2wYc1ytU3qw/master.m3u8",
+            "info": {
+              "duration": 3000,
+              "plot": "2023  •  France, Belgium  •  50 мин.\nTMDb 7.1; TMDb ID: 209801\nЖанр: НФ и Фэнтези, детектив\nПремьера: 2023-01-03\nСтудия: Merlin Productions",
+              "poster": "https://image.tmdb.org/t/p/original/vi8S5vhEQhzEXqLhBWOZ5Z6KfP1.jpg",
+              "rating": "TMDb 8.0"
+            }
+          },
+          {
+            "episode": 2,
+            "name": "Назад в прошлое - Сезон 1. Эпизод 2",
+            "video": "https://726-6ee-506gv.stream-balancer-allo-1.live/65/7R_r47FSh3ShOCsrQM-0B68MCxPLeGRg3HGf4ZALh9sTI1sf081LnbTGK9YQ7NOz-_jTTdnL5IDA13pz-2PNkOObqmKFPVPFfCq2ZNgFSojm7EQZODNYsd5HTmhzgODTrivLz1FxeYVALO3xvj5uP5FY7JgHj093QvWYosiIK1FHEH5xNssmxyUIqwctJKq9ezxrtoSQ09rp6jp8GMHwrTqmFxZ8yI0G1LmwUS6LLnE5KTql0So4SCITpPnLZ62VE1unsJ30ANnyNetSbmjVwGLRkNWU1xd4FprHW_F-UFrZ36srCTNg9LP_kocvmhLnX_pFFkXZFOeK-mSH63bcfGT5rN6JClCp2SYJO6Z0HPh0TUaBDNj99BT1OYF8VTHf4_xs5djjy_M110Qcs7vJ2EPnRhPMQQ-F-H1lrflhGp_myi9VwsnedaurPgT9bnTmOjJsC2CNwqofb5mG8Wb7vAaeagyOIpbLBpl29zg0be_iGIOmWV90lf5UZuDSRAYh7ierFs9AIh9BrBZjJoTxixTkAMW2ESkGKRlbAYb4EAYNTQwd_9QiMGl1lvZFXBTyk58TxHfxR_LdJ8PPxV0SiVt7RqoDI4Va2EmxrhJ42Nqr9ALXdligE6Jrj4wrnN7XvUNhw99voG00HykK5x8eZNgdIWJ0-iG5VZn4wq5WwJEE9zmRoLm3IY3I6gQ6Z7U5tdLNi421fjXDanEVc3ZaFforTEFAe-E2uLoUHACMTHBFNgsaOVT-hXvfGspXXE4ky4r7N9z_uoJgpFgV0TCYCbsQuqn4E3w1NauSWfoUtHa7NqP_SF5ZknNc-6P43VfZuoCcz4bXru7kcZO7eY6kQ2NjChh5jdgWJBIPy-rmdz1BHETm0qJ2PG-4ksZtAlg1FIgGUxYLWdD9433QIhs24pSs54iolAz4o-BNPci5UsEI7Dr7ddgfYGUFU0AIiOaJAGetAVH6Ifhnd5OEz9ns1BtBVX7I-6yUCAij5oTpYT9Vqvx9PSA30DCGhqAap2S02YTX2MUwudkCD2GvLZe84O2hs7S5CoRFqgbhqbRSJPAF5_6ZW6dLYKo7GrmdSNZuG4Mxv5VCrIi1bGNtbytFIEg93_DGGl4Ary0kuRXCKuZ3RLc-prDerwgtsvyWdgqmpvEHUcT5m5-h98KOXZ6kPEuG31UrV7e-2PL9u-M0F3GvCz3tM4kwKn1w7tB_aHDehK5AwsQ60bg27t_TQ-nClVYywi5zQrxnVbIvvyaYsmFs8KWCmF84jCr9vxCnF-2LzS4Hnp4Ks6Vt2Mns_3TRIxO0IRksOGPRJZETkTQ_l8oUfLRS2NUb0H4SAAsVXT3R7Lm_qzD96eJo_1m2hyyd4YPiDEv3kg7UWnOCIZ4V9SwmYv0x7WfbFpdZ6XHzS4Vr_mQJu6XaC8HczzX4vkdprEVAONKJPa4vAXOkWB5uDzri-CdxfVgW4MMqrKbe9kyN_PrFu63OyCdfeWE2r9nUDDRXpK2kcT1UVc4hVMtQuJdgRbX5cqAKPgjnFjzaEt9R5aqylCQ9bYyiQcEZwwm-P4LURrwSIi_Z8POkd3szlhzkza5sHhcqOVP2Wtn--mmWQ8lzNFFnTkekI8oefcNs4V4Gv9gfjAbrO8-3OUAUltHyPKLP3w/master.m3u8",
+            "info": {
+              "duration": 2940,
+              "plot": "2023  •  France, Belgium  •  49 мин.\nTMDb 7.1; TMDb ID: 209801\nЖанр: НФ и Фэнтези, детектив\nПремьера: 2023-01-03\nСтудия: Merlin Productions",
+              "poster": "https://image.tmdb.org/t/p/original/w782QYhWAHT8kIwYTanLAOhzTTJ.jpg",
+              "rating": "TMDb 8.0"
+            }
+          }
+        ]
+      }
+    ]
   }
 ]
