@@ -114,6 +114,11 @@
               "plot": "2023  •  France, Belgium  •  50 мин.\nTMDb 7.1; TMDb ID: 209801\nЖанр: НФ и Фэнтези, детектив\nПремьера: 2023-01-03\nСтудия: Merlin Productions",
               "poster": "https://image.tmdb.org/t/p/original/vi8S5vhEQhzEXqLhBWOZ5Z6KfP1.jpg",
               "rating": "TMDb 8.0"
+            },
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+              "Referer": "https://ollo-as.stloadi.live/?token_movie=d89b146eed16428e94c80237411731&token=875912cc3b0d48c90397c419a957e8",
+              "Origin": "https://ollo-as.stloadi.live"
             }
           },
           {
@@ -125,6 +130,11 @@
               "plot": "2023  •  France, Belgium  •  49 мин.\nTMDb 7.1; TMDb ID: 209801\nЖанр: НФ и Фэнтези, детектив\nПремьера: 2023-01-03\nСтудия: Merlin Productions",
               "poster": "https://image.tmdb.org/t/p/original/w782QYhWAHT8kIwYTanLAOhzTTJ.jpg",
               "rating": "TMDb 8.0"
+            },
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0",
+              "Referer": "https://ollo-as.stloadi.live/?token_movie=d89b146eed16428e94c80237411731&token=875912cc3b0d48c90397c419a957e8",
+              "Origin": "https://ollo-as.stloadi.live"
             }
           }
         ]
