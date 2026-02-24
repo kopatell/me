@@ -6,54 +6,13 @@
   </channel>
   <programme start="20260225000000 +0200" stop="20260225021300 +0200" channel="1_kanal_hd">
     <title>х/ф. Ночь с психопатом</title>
-    <desc>[Borderline, [18+], TMDb 5.7] [133 мин.] «Приглашаем вас на жестокую романтическую комедию» 1990-е. Полгода назад Пол — поклонник поп-звезды Софии — пробрался в её особняк на Голливудских холмах, ранил охранника ножом и был пойман. Теперь он в компании такой же сумасшедшей подельницы сбегает из психиатрической лечебницы и снова проникает в дом своего кумира в полной уверенности, что теперь они с Софией точно поженятся. [Студия: Radiant Films International, Премьера: 2025-03-14]</desc>
-    <icon src="https://image.tmdb.org/t/p/w92/gvPIpEtIudW2YE5zgkUZSiQGSdl.jpg"/>
-    <category>комедия</category>
-    <category>ужасы</category>
-    <category>триллер</category>
-    <sub-title>«Приглашаем вас на жестокую романтическую комедию»</sub-title>
-    <date>2025</date>
-    <country>Canada</country>
-    <country>United States of America</country>
-    <rating system="MPAA"><value>18+</value></rating>
-    <rating system="TMDb"><value>TMDb 5.7</value></rating>
-    <credits>
-      <director>Jimmy Warden</director>
-      <actor>Самара Уивинг</actor>
-      <actor>Рэймонд Николсон</actor>
-      <actor>Джимми Фэйлс</actor>
-      <actor>Эрик Дэйн</actor>
-      <actor>Alba Baptista</actor>
-      <actor>Кэтрин Лок Хэггквист</actor>
-      <actor>Патрик Кокс</actor>
-      <actor>Теренс Келли</actor>
-      <actor>Мэттью Дел Бел Беллуз</actor>
-      <actor>Yasmeen Kelders</actor>
-    </credits>
+    <uniqueid type="tmdb">1013482</uniqueid>
+    <desc></desc>
   </programme>
   <programme start="20260225021300 +0200" stop="20260225035100 +0200" channel="1_kanal_hd">
     <title>х/ф. Проклятие Аннабель</title>
-    <desc>[Annabelle, [R], TMDb 5.8] [98 мин.] «Перед «заклятием» было» Джон находит идеальный подарок для своей будущей жены — это редкая старинная кукла в белом свадебном платье. Но восторг от подарка продлился не долго. Однажды ночью в их дом вторгаются члены сатанинского культа… [Студия: Atomic Monster, Премьера: 2014-10-01]</desc>
-    <icon src="https://image.tmdb.org/t/p/w92/i12HsW8jXnCoy5IieQEpFLush7O.jpg"/>
-    <category>ужасы</category>
-    <sub-title>«Перед «заклятием» было»</sub-title>
-    <date>2014</date>
-    <country>United States of America</country>
-    <rating system="MPAA"><value>R</value></rating>
-    <rating system="TMDb"><value>TMDb 5.8</value></rating>
-    <credits>
-      <director>Джон Р. Леонетти</director>
-      <actor>Аннабелль Уоллис</actor>
-      <actor>Уорд Хортон</actor>
-      <actor>Тони Амендола</actor>
-      <actor>Элфри Вудард</actor>
-      <actor>Эрик Ладин</actor>
-      <actor>Керри О&apos;Мэлли</actor>
-      <actor>Брайан Хоу</actor>
-      <actor>Ивар Броггер</actor>
-      <actor>Гэбриел Бейтман</actor>
-      <actor>Шайло Нельсон</actor>
-    </credits>
+    <uniqueid type="tmdb">250546</uniqueid>
+    <desc></desc>
   </programme>
   <programme start="20260225035100 +0200" stop="20260225052600 +0200" channel="1_kanal_hd">
     <title>х/ф. Я иду искать</title>
@@ -83,33 +42,10 @@
   </programme>
   <programme start="20260225052600 +0200" stop="20260225062600 +0200" channel="1_kanal_hd">
     <title>т/с. «Робин Гуд» . Сезон 1: Эпизод 2. «Гнусный дьявол»</title>
-    <desc>[Robin Hood, [18+], TMDb 7.5] [60 мин.] Роб, саксонский разбойник, и Мариан, нормандская дворянка, объединяются, чтобы бороться с несправедливостью после нормандского завоевания. Он возглавляет отряд мятежников, а она внедряется в коррумпированный двор. Оба стремятся к справедливости и миру.
-
-[TMDb 7.2] Сюжет эпизода «Гнусный дьявол»:
-Роберт теряет обоих родителей. Хантингтон подкупает чиновников, чтобы захватить земли и стать графом, а его дочь узнает о его причастности к казни Хью. Мэриан и Роберт признаются друг другу в любви, но их плану побега не суждено сбыться. Когда Лефорс пытается арестовать Робина, он стреляет в него из лука и убегает в лес. [Студия: Lionsgate Television, Премьера: 2025-11-02, Статус: Продолжается, Сезонов: 1, Последний: Эпизод 10: Один враг погибает, другой возвышается (28.12.2025)]</desc>
-    <icon src="https://image.tmdb.org/t/p/w300/AtrmCKPdDKD6ufCSIjeXRViUhWG.jpg"/>
-    <category>драма</category>
-    <category>Боевик и Приключения</category>
-    <date>2025</date>
-    <country>United States of America</country>
-    <rating system="MPAA"><value>18+</value></rating>
-    <rating system="TMDb"><value>TMDb 7.5</value></rating>
-    <credits>
-      <director>Джонатан Инглиш</director>
-      <director>Джон Гленн</director>
-      <actor>Джек Паттен</actor>
-      <actor>Лорен МакКуин</actor>
-      <actor>Лидия Пекхэм</actor>
-      <actor>Маркус Фрэйзер</actor>
-      <actor>Генри Роули</actor>
-      <actor>Эрика Форд</actor>
-      <actor>Энгус Касл-Даути</actor>
-      <actor>Стивен Вэддингтон</actor>
-      <actor>Конни Нильсен</actor>
-      <actor>Шон Бин</actor>
-    </credits>
+    <uniqueid type="tmdb">272418</uniqueid>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
+    <desc></desc>
   </programme>
   <programme start="20260225062600 +0200" stop="20260225072600 +0200" channel="1_kanal_hd">
     <title>т/с. «Робин Гуд» . Сезон 1: Эпизод 10. «Я вижу его»</title>
