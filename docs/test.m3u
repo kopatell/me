@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1_kanal_hd" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Киношка" catchup="append" catchup-days="1" catchup-source="?offset=-${offset}&utcstart=${timestamp}",1 канал HD
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="robin_gud_s01e002" tvg-tmdb="272418" tvg-season="1" tvg-episode="2" tvg-logo="https://image.tmdb.org/t/p/w92/pZycMzExEItZ4RGZ20drSbDq5Wc.jpg" group-title="Киношка" page-url="dROaHR0cHM6Ly9yZXprYS11YS5jby9zZXJpZXMvYWR2ZW50dXJlcy84MjQwNC1yb2Jpbi1ndWQtMjAyNS1sYXRlc3QvMzc2LWhkcmV6a2Etc3R1ZGlvLXVrcmFpbnNraXkvMS1zZWFzb24vMi1lcGlzb2RlLmh0bWw=",Робин Гуд | S01E002
 https://secret.sambray.org/eff3ff2cebb6fd0e041d9e97fbe088e8:2026022509:ckFTMVRtQURvSkI1anIydmNsbVlNMC83YkFrOHNobmhwUGlWOUk5aTk5TDRhSzROYXNOOEJXVVdwUGM3M0pJZ3ZPdkNiOEN4NnhhOEpndktyYlVmRkE9PQ==/1/3/6/9/0/6/8/3tr7t.mp4:hls:manifest.m3u8
 #EXTINF:-1 tvg-id="robin_gud_s01e010" tvg-season="1" tvg-episode="10" tvg-logo="https://image.tmdb.org/t/p/w92/pZycMzExEItZ4RGZ20drSbDq5Wc.jpg" group-title="Киношка" page-url="6x3aHR0cHM6Ly9yZXprYS5hZy9zZXJpZXMvYWR2ZW50dXJlcy84MjQwNC1yb2Jpbi1ndWQtMjAyNS1sYXRlc3QuaHRtbA==",Робин Гуд | S01E010
