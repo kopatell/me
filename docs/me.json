@@ -1,20 +1,18 @@
 {
-  "name": "Время",
-  "category": "Фильмы",
-  "video": "https://e17-2c0-402gv.stream-balancer-allo-1.live/0/MjTStCV4XXyMcqqgS4qb3JkWKpMk7236x4mQtCVbx3prltSN3Z82ooMOgkGlhZ1Ww_o2sYiFTrhMKPQjXpHHPf90e0KDGof12Rc4PMTTMzmhwCt0AE5WC6hqtboTqOK_LD8a8cfoxSdyayTO6WEa03B-PNvXAmEkjNjA8urx4dNIdUI5HOvyPETN8vUfPdOGaS49o9hGQ6iHkQkPDCjpQkN9_vcOLm0afbxmlGwjIIFq_N4T--LZn0saXUGpMMEdi_FxiTQTuRXbXuPL8MzDWJZ3HiSB-YUuyERYCIoVjGYUpgEs-Nf28dZ3ZMJSxFsricEIgos7SdU45TI4554ikgBQczsKpvSbZvJ9PDepUGJUpKexf-s4wqbLyaXwnck3eN2t25ZcPSxDuE8Zv7YLnA_xEbxoDN4LUImkwXeTyyu1Ws6kS77Z-GkbZx_16OOYgJwELhQ8OP4Os9pNe-oe5ssu8KWik_WpOeLdEnqNLRJAeqGTPZO3Zu8RvZI7BqpP4KuwLOPCm6ChnidiL-VzUVWDl3G728RmQOO-ZLekApBTApbkWwjQNjEg4O2U-NGTyBXK-bquYymONrdwuSROYzEu7yKGRdBenR8gqXbObgVajoRT1ZTrA3m4vkTLYrhYjcuC3ktIciFdUvWxi8pCbKKS0-gJQ6ypkiMkdXTYADSsSnHAYhEUAqovBrBUfsSMVVIzEzknGZX5a6MVsCG89DpZ1jsC8AVHrHocqw_beE3-RE5YdPPIkJslc2Sj09SVsvCVJwvVbQjlvgC4tvEm0_H9jwX5UeIhpHmUXRxSYAqy7YbZLLRI8AAVZRzW6BbFxZdOShSZ6L-Ik3P6smVHC6uxqzycPP9VUAv71c0_gOECdBq4wcoYCqauxt6oqsbJAZsDnnrgp4HqU7NU0g3bIDizpU8Dik6riYbDccCQKuexmG9vs6LCxzRe35UQLtpXrD3LVoQ9NLOXaUg1NPGei4GnVg-JlVtL7oQAY3iNoYuBwYBakycXETcmZRAfUZ0DtnMKQ58z_sEn_FEMvj0aQcovGzI54QQ4nGT1KaPEcVjjodvkcri9nCXY6PQwagDP1UXbt3AF_UKByJwkWtCEDcMycsKOmnznLxyDuNGebHlq2khklSYaCXiCMkwK2Isn7gMQVV3BLh7gtEkz70reHbL22Urw4Zq4duwt5kUw76__GuQZQP2HuUOMricjeztLuJjg35teovD2XSirjdxwwr0f9SoQSpYrUErdzyZVtcc0jQb4Qqi0cYA8BlJNn8ajGje8WTjk6bhvadGkwnuqnPD3KEtJDq65wHWvTuS8t0esuZ-6GmVmNsvZm3uAQMb-hlPWOeg2L9yhrZicY3D8-ec1bpL41jDvN_ZAIP2yTt1kN8RwD64nUe8dJvcrXR5HPYdNPYP3ywTc3OiAlR_TeEcGONprrp2eJ3VmTlz6OLshb2R4Z0C7-olntspz6foD7ksHjLgEoAvW0A3Ca9EyZG2Vrd_pShLsg1UYakorCwHQ7GEgP0sG-L-zUKAFPPM8aWrxiMYY1Xn7GqKfby6JcKR_Zd2vaas2z2ShxZyCEgSwq82Xl4mtHz_EeTl06qq-1eUNF7WPl5-1UBlWgBmp01qkCxEJXwCAHnNXgntOGSXVmy78rUFDKa4UDEOMAPTjK8DidHoMcLszAAJ-0cCzO5dcK_bNeVUW4oMuBBcPltWjqzn10EtE2idQBNLy-_y8pSMEhBIl_ehnVbKyOumeq62ZvO_fqww17mUZYvnAqXXqQYdlBlsa7mCYyhv1mY4StjnXVoItI8lZrDhm9Pc-e-idyFbaAZAxBJLPnQh-BeeqsbIl7R10CnE9RjhNC88_fjXvnvL-DwOliu34AfVhp5yh2V__6g/master.m3u8",
-  "info": {
-    "year": 2011,
-    "rating": "TMDb 7.0",
-    "duration": 6540,
-    "plot": "Добро пожаловать в мир, где время стало единственной и самой твердой валютой...",
-    "poster": "https://image.tmdb.org/t/p/w500/ip4GMRyHjDkfSt3PTp6rrTYSClK.jpg",
-    "genre": ["боевик", "триллер", "фантастика"]
-  },
-  "headers": {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0",
-    "Referer": "https://synthezoid-as.stloadi.live/?token_movie=43b03410322c7ad0f04c4ed70a201e&token=055b70ce4c4621dd67624ee85e636a",
-    "Origin": "https://synthezoid-as.stloadi.live",
-    "Accepts-Controls": "c756f91ebbd0f3cdbbbcab3ea8911fbc",
-    "Authorizations": "Bearer pXzvbyDGLYyB6VkwsWZDv3iMKZtsXNzpzRyxZUcsKHXxsSeaYakbo3hw9mBFRc5VQTpqAX6BW8aDEqyLaHYcXSQiV6KHYTVTK6MYRphNAy5sBjtrevqkDzKmLqNdfMZGEU9NELjmtKfZy3RNGzCd767sNh1mXEj4tCcvqndHtzmwAbZNkhm4ghDEasodotMBewypNQ56uotJAQGX11csfeRfBAPk8DcUWWkkqzxca8vbnEw12vUFbBzT6hz8ZB3F3dzUhUXoL2cr1WM1bXQArRCS1MUNMz3X5WDMMQoZKxj2AMTRqp7QQX4dDB9B7VzEZTmyFULhm1AcHHMkoMvSVvKYoBoAKLycYAgMHeD4ECJcGEAGpnkJhrV57zQ7"
-  }
+  "name": "Моя Медиатека",
+  "channels": [
+    {
+      "name": "Время (2011)",
+      "video": "https://e17-2c0-402gv.stream-balancer-allo-1.live/0/MjTStCV4XXyMcqqgS4qb3JkWKpMk7236x4mQtCVbx3prltSN3Z82ooMOgkGlhZ1Ww_o2sYiFTrhMKPQjXpHHPf90e0KDGof12Rc4PMTTMzmhwCt0AE5WC6hqtboTqOK_LD8a8cfoxSdyayTO6WEa03B-PNvXAmEkjNjA8urx4dNIdUI5HOvyPETN8vUfPdOGaS49o9hGQ6iHkQkPDCjpQkN9_vcOLm0afbxmlGwjIIFq_N4T--LZn0saXUGpMMEdi_FxiTQTuRXbXuPL8MzDWJZ3HiSB-YUuyERYCIoVjGYUpgEs-Nf28dZ3ZMJSxFsricEIgos7SdU45TI4554ikgBQczsKpvSbZvJ9PDepUGJUpKexf-s4wqbLyaXwnck3eN2t25ZcPSxDuE8Zv7YLnA_xEbxoDN4LUImkwXeTyyu1Ws6kS77Z-GkbZx_16OOYgJwELhQ8OP4Os9pNe-oe5ssu8KWik_WpOeLdEnqNLRJAeqGTPZO3Zu8RvZI7BqpP4KuwLOPCm6ChnidiL-VzUVWDl3G728RmQOO-ZLekApBTApbkWwjQNjEg4O2U-NGTyBXK-bquYymONrdwuSROYzEu7yKGRdBenR8gqXbObgVajoRT1ZTrA3m4vkTLYrhYjcuC3ktIciFdUvWxi8pCbKKS0-gJQ6ypkiMkdXTYADSsSnHAYhEUAovBrBUfsSMVVIzEzknGZX5a6MVsCG89DpZ1jsC8AVHrHocqw_beE3-RE5YdPPIkJslc2Sj09SVsvCVJwvVbQjlvgC4tvEm0_H9jwX5UeIhpHmUXRxSYAqy7YbZLLRI8AAVZRzW6BbFxZdOShSZ6L-Ik3P6smVHC6uxqzycPP9VUAv71c0_gOECdBq4wcoYCqauxt6oqsbJAZsDnnrgp4HqU7NU0g3bIDizpU8Dik6riYbDccCQKuexmG9vs6LCxzRe35UQLtpXrD3LVoQ9NLOXaUg1NPGei4GnVg-JlVtL7oQAY3iNoYuBwYBakycXETcmZRAfUZ0DtnMKQ58z_sEn_FEMvj0aQcovGzI54QQ4nGT1KaPEcVjjodvkcri9nCXY6PQwagDP1UXbt3AF_UKByJwkWtCEDcMycsKOmnznLxyDuNGebHlq2khklSYaCXiCMkwK2Isn7gMQVV3BLh7gtEkz70reHbL22Urw4Zq4duwt5kUw76__GuQZQP2HuUOMricjeztLuJjg35teovD2XSirjdxwwr0f9SoQSpYrUErdzyZVtcc0jQb4Qqi0cYA8BlJNn8ajGje8WTjk6bhvadGkwnuqnPD3KEtJDq65wHWvTuS8t0esuZ-6GmVmNsvZm3uAQMb-hlPWOeg2L9yhrZicY3D8-ec1bpL41jDvN_ZAIP2yTt1kN8RwD64nUe8dJvcrXR5HPYdNPYP3ywTc3OiAlR_TeEcGONprrp2eJ3VmTlz6OLshb2R4Z0C7-olntspz6foD7ksHjLgEoAvW0A3Ca9EyZG2Vrd_pShLsg1UYakorCwHQ7GEgP0sG-L-zUKAFPPM8aWrxiMYY1Xn7GqKfby6JcKR_Zd2vaas2z2ShxZyCEgSwq82Xl4mtHz_EeTl06qq-1eUNF7WPl5-1UBlWgBmp01qkCxEJXwCAHnNXgntOGSXVmy78rUFDKa4UDEOMAPTjK8DidHoMcLszAAJ-0cCzO5dcK_bNeVUW4oMuBBcPltWjqzn10EtE2idQBNLy-_y8pSMEhBIl_ehnVbKyOumeq62ZvO_fqww17mUZYvnAqXXqQYdlBlsa7mCYyhv1mY4StjnXVoItI8lZrDhm9Pc-e-idyFbaAZAxBJLPnQh-BeeqsbIl7R10CnE9RjhNC88_fjXvnvL-DwOliu34AfVhp5yh2V__6g/master.m3u8",
+      "logo": "https://image.tmdb.org/t/p/w500/ip4GMRyHjDkfSt3PTp6rrTYSClK.jpg",
+      "group": "Фильмы",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0",
+        "Referer": "https://synthezoid-as.stloadi.live/?token_movie=43b03410322c7ad0f04c4ed70a201e&token=055b70ce4c4621dd67624ee85e636a",
+        "Origin": "https://synthezoid-as.stloadi.live",
+        "Accepts-Controls": "c756f91ebbd0f3cdbbbcab3ea8911fbc",
+        "Authorizations": "Bearer pXzvbyDGLYyB6VkwsWZDv3iMKZtsXNzpzRyxZUcsKHXxsSeaYakbo3hw9mBFRc5VQTpqAX6BW8aDEqyLaHYcXSQiV6KHYTVTK6MYRphNAy5sBjtrevqkDzKmLqNdfMZGEU9NELjmtKfZy3RNGzCd767sNh1mXEj4tCcvqndHtzmwAbZNkhm4ghDEasodotMBewypNQ56uotJAQGX11csfeRfBAPk8DcUWWkkqzxca8vbnEw12vUFbBzT6hz8ZB3F3dzUhUXoL2cr1WM1bXQArRCS1MUNMz3X5WDMMQoZKxj2AMTRqp7QQX4dDB9B7VzEZTmyFULhm1AcHHMkoMvSVvKYoBoAKLycYAgMHeD4ECJcGEAGpnkJhrV57zQ7"
+      }
+    }
+  ]
 }
